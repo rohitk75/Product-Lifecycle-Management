@@ -246,5 +246,10 @@ app_license = "mit"
 fixtures = [
 {"doctype": "Size Groups"},
 {"doctype": "Season"},
-{"doctype": "Product Category"}
+{"doctype": "Product Category"},
+{"doctype": "Role",
+            "filters": [
+                ["name", "in", ("PLM Manager", "PLM User")]
+            ]
+}
 ]

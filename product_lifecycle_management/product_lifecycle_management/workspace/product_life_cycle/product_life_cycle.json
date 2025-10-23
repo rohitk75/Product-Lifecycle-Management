@@ -17,7 +17,7 @@
    "hidden": 0,
    "is_query_report": 0,
    "label": "Product Attributes",
-   "link_count": 3,
+   "link_count": 7,
    "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
@@ -45,15 +45,55 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Size Group",
+   "label": "Size Groups",
    "link_count": 0,
    "link_to": "Size Groups",
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Brand",
+   "link_count": 0,
+   "link_to": "Brand",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Nature",
+   "link_count": 0,
+   "link_to": "Nature",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fabric",
+   "link_count": 0,
+   "link_to": "Fabric",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Product Color",
+   "link_count": 0,
+   "link_to": "Product Color",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2025-10-23 11:50:54.619293",
+ "modified": "2025-10-23 13:43:39.194619",
  "modified_by": "Administrator",
  "module": "Product Lifecycle Management",
  "name": "Product Life Cycle",

@@ -2,29 +2,111 @@
  "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
- "autoname": "field:season",
+ "autoname": "field:season_code",
  "creation": "2025-10-23 11:35:17.672762",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "season"
+  "season_type",
+  "season_code",
+  "season_name",
+  "launch_period",
+  "selling_period",
+  "column_break_hjzp",
+  "description",
+  "specific_year",
+  "section_break_dwft",
+  "launch_date_start",
+  "selling_date_start",
+  "column_break_yquq",
+  "launch_date_till",
+  "selling_date_till"
  ],
  "fields": [
   {
+   "fieldname": "season_type",
+   "fieldtype": "Select",
+   "label": "Season Type",
+   "options": "Core Fashion Seasons\nTransitional & Bridge Collections\nCapsule & Commercial Retail Seasons\nCouture & Luxury Fashion Calendar\nMarketing & Thematic Retail Moments",
+   "reqd": 1
+  },
+  {
    "allow_in_quick_entry": 1,
-   "fieldname": "season",
+   "fieldname": "season_code",
    "fieldtype": "Data",
    "in_filter": 1,
    "in_list_view": 1,
-   "label": "Season",
+   "label": "Season Code",
+   "length": 10,
    "reqd": 1,
    "unique": 1
+  },
+  {
+   "fieldname": "season_name",
+   "fieldtype": "Data",
+   "label": "Season Name"
+  },
+  {
+   "fieldname": "column_break_hjzp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "Description"
+  },
+  {
+   "fieldname": "section_break_dwft",
+   "fieldtype": "Section Break",
+   "label": "Dates"
+  },
+  {
+   "fieldname": "launch_date_start",
+   "fieldtype": "Date",
+   "label": "Launch Date Start"
+  },
+  {
+   "fieldname": "column_break_yquq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "launch_date_till",
+   "fieldtype": "Date",
+   "label": "Launch Date Till"
+  },
+  {
+   "fieldname": "selling_date_till",
+   "fieldtype": "Date",
+   "label": "Selling Date Till"
+  },
+  {
+   "fieldname": "launch_period",
+   "fieldtype": "Data",
+   "label": "Launch Period",
+   "read_only": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "specific_year",
+   "fieldtype": "Check",
+   "label": "Specific Year"
+  },
+  {
+   "fieldname": "selling_period",
+   "fieldtype": "Data",
+   "label": "Selling Period",
+   "read_only": 1
+  },
+  {
+   "fieldname": "selling_date_start",
+   "fieldtype": "Date",
+   "label": "Selling Date Start"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-23 11:36:57.510103",
+ "modified": "2025-10-23 17:29:08.577972",
  "modified_by": "Administrator",
  "module": "Product Lifecycle Management",
  "name": "Season",
