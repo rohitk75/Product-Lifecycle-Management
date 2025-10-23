@@ -1,0 +1,485 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.174138",
+  "name": "ACADEMIC DRESS",
+  "product_category": "ACADEMIC DRESS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.196634",
+  "name": "ACCESSORIES",
+  "product_category": "ACCESSORIES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.204772",
+  "name": "ACTIVE/SPORTS WEAR",
+  "product_category": "ACTIVE/SPORTS WEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.210958",
+  "name": "BEACH WEAR",
+  "product_category": "BEACH WEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.217534",
+  "name": "BELT",
+  "product_category": "BELT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.223741",
+  "name": "BLAZER",
+  "product_category": "BLAZER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.230342",
+  "name": "BOW TIE",
+  "product_category": "BOW TIE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.237890",
+  "name": "BOYS SHORTS",
+  "product_category": "BOYS SHORTS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.244310",
+  "name": "CARDIGAN",
+  "product_category": "CARDIGAN"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.252560",
+  "name": "COAT",
+  "product_category": "COAT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.260278",
+  "name": "COSMETICS",
+  "product_category": "COSMETICS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.266602",
+  "name": "FOOTWEAR",
+  "product_category": "FOOTWEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.272838",
+  "name": "GIRLS SKIRT",
+  "product_category": "GIRLS SKIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.279073",
+  "name": "GIRLS SKORTS",
+  "product_category": "GIRLS SKORTS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.285614",
+  "name": "HOODIE",
+  "product_category": "HOODIE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.293025",
+  "name": "JACKET",
+  "product_category": "JACKET"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.301533",
+  "name": "JEANS",
+  "product_category": "JEANS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.309267",
+  "name": "JOGGERS TROUSER",
+  "product_category": "JOGGERS TROUSER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.318924",
+  "name": "KID'S",
+  "product_category": "KID'S"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.327618",
+  "name": "KID'S ACCESSORIES",
+  "product_category": "KID'S ACCESSORIES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.341539",
+  "name": "KID'S SHOES",
+  "product_category": "KID'S SHOES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.348907",
+  "name": "LADY'S",
+  "product_category": "LADY'S"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.355271",
+  "name": "LADY'S ACCESORIES",
+  "product_category": "LADY'S ACCESORIES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.362009",
+  "name": "LADY'S BLAZER",
+  "product_category": "LADY'S BLAZER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.368338",
+  "name": "LADY'S JACKET",
+  "product_category": "LADY'S JACKET"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.375575",
+  "name": "LADY'S SHIRT",
+  "product_category": "LADY'S SHIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.382287",
+  "name": "LADY'S SHOE",
+  "product_category": "LADY'S SHOE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.389321",
+  "name": "LADY'S SKIRT",
+  "product_category": "LADY'S SKIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.396357",
+  "name": "LADY'S SOCKS",
+  "product_category": "LADY'S SOCKS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.402980",
+  "name": "LADY'S SUIT",
+  "product_category": "LADY'S SUIT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.409726",
+  "name": "LADY'S TROUSER",
+  "product_category": "LADY'S TROUSER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.416073",
+  "name": "LADY'S T-SHIRT",
+  "product_category": "LADY'S T-SHIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.423483",
+  "name": "LADY'S WEAR",
+  "product_category": "LADY'S WEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.430245",
+  "name": "LEATHER JACKET",
+  "product_category": "LEATHER JACKET"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.438241",
+  "name": "LIGHTS",
+  "product_category": "LIGHTS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.445658",
+  "name": "LONG COAT",
+  "product_category": "LONG COAT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.452679",
+  "name": "MANNEQUIN",
+  "product_category": "MANNEQUIN"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.459570",
+  "name": "MEN'S",
+  "product_category": "MEN'S"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.466330",
+  "name": "MENS FOOTWEAR",
+  "product_category": "MENS FOOTWEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.473646",
+  "name": "MEN'S SHOE",
+  "product_category": "MEN'S SHOE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.480886",
+  "name": "MENS SHORTS",
+  "product_category": "MENS SHORTS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.488080",
+  "name": "METAL BASE",
+  "product_category": "METAL BASE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.495504",
+  "name": "PERFUME",
+  "product_category": "PERFUME"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.502218",
+  "name": "PINAFORE",
+  "product_category": "PINAFORE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.509093",
+  "name": "PLASTIC HANGER",
+  "product_category": "PLASTIC HANGER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.515912",
+  "name": "POLO",
+  "product_category": "POLO"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.522599",
+  "name": "PULLOVER",
+  "product_category": "PULLOVER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.529532",
+  "name": "PYJAMA",
+  "product_category": "PYJAMA"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.536203",
+  "name": "SCHOOL UNIFORM",
+  "product_category": "SCHOOL UNIFORM"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.548108",
+  "name": "SERVICE INCOME",
+  "product_category": "SERVICE INCOME"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.555156",
+  "name": "SHACKET",
+  "product_category": "SHACKET"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.562023",
+  "name": "SHIPPING",
+  "product_category": "SHIPPING"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.568684",
+  "name": "SHIRT",
+  "product_category": "SHIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.575100",
+  "name": "SHOE",
+  "product_category": "SHOE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.582294",
+  "name": "SHORTS",
+  "product_category": "SHORTS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.588794",
+  "name": "SOCKS",
+  "product_category": "SOCKS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.595370",
+  "name": "SUIT",
+  "product_category": "SUIT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.602021",
+  "name": "SUIT COVER",
+  "product_category": "SUIT COVER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.608413",
+  "name": "SWEATPANT",
+  "product_category": "SWEATPANT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.615619",
+  "name": "SWEATSHIRT",
+  "product_category": "SWEATSHIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.622573",
+  "name": "TEXTILES",
+  "product_category": "TEXTILES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.629211",
+  "name": "TIE",
+  "product_category": "TIE"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.635866",
+  "name": "TOYS",
+  "product_category": "TOYS"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.642129",
+  "name": "TROUSER",
+  "product_category": "TROUSER"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.649543",
+  "name": "T-SHIRT",
+  "product_category": "T-SHIRT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.656127",
+  "name": "T-SHIRT/POLO",
+  "product_category": "T-SHIRT/POLO"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.662352",
+  "name": "UNDERWEAR",
+  "product_category": "UNDERWEAR"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.668393",
+  "name": "VEST",
+  "product_category": "VEST"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Product Category",
+  "modified": "2025-10-23 11:31:28.674929",
+  "name": "WATCHES",
+  "product_category": "WATCHES"
+ }
+]

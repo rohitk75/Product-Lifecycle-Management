@@ -242,3 +242,9 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+# Product Lifecycle Management Supporting Doctypes with Data 
+fixtures = [
+{"doctype": "Size Groups"},
+{"doctype": "Season"},
+{"doctype": "Product Category"}
+]

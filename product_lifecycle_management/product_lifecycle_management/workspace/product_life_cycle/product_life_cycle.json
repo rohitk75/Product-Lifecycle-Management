@@ -1,0 +1,69 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"DLoekiHA8Q\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Product Life Cycle</span>\",\"col\":12}},{\"id\":\"JJb11RiyGT\",\"type\":\"card\",\"data\":{\"card_name\":\"Product Attributes\",\"col\":4}}]",
+ "creation": "2025-10-23 09:47:24.904848",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "branch",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Product Life Cycle",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Product Attributes",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Product Category",
+   "link_count": 0,
+   "link_to": "Product Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Season",
+   "link_count": 0,
+   "link_to": "Season",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Size Group",
+   "link_count": 0,
+   "link_to": "Size Groups",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-10-23 11:50:54.619293",
+ "modified_by": "Administrator",
+ "module": "Product Lifecycle Management",
+ "name": "Product Life Cycle",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 28.0,
+ "shortcuts": [],
+ "title": "Product Life Cycle"
+}
