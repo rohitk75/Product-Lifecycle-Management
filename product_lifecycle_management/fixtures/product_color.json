@@ -1,0 +1,1130 @@
+[
+ {
+  "color": "#4463F0",
+  "color_name": "Blue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:46:30.779315",
+  "name": "Blue"
+ },
+ {
+  "color": "#F0F8FF",
+  "color_name": "AliceBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.018078",
+  "name": "AliceBlue"
+ },
+ {
+  "color": "#FAEBD7",
+  "color_name": "AntiqueWhite",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.031715",
+  "name": "AntiqueWhite"
+ },
+ {
+  "color": "#00FFFF",
+  "color_name": "Aqua",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.039076",
+  "name": "Aqua"
+ },
+ {
+  "color": "#7FFFD4",
+  "color_name": "Aquamarine",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.055193",
+  "name": "Aquamarine"
+ },
+ {
+  "color": "#F0FFFF",
+  "color_name": "Azure",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.062369",
+  "name": "Azure"
+ },
+ {
+  "color": "#F5F5DC",
+  "color_name": "Beige",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.069327",
+  "name": "Beige"
+ },
+ {
+  "color": "#FFE4C4",
+  "color_name": "Bisque",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.076667",
+  "name": "Bisque"
+ },
+ {
+  "color": "#000000",
+  "color_name": "Black",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.084044",
+  "name": "Black"
+ },
+ {
+  "color": "#FFEBCD",
+  "color_name": "BlanchedAlmond",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.094273",
+  "name": "BlanchedAlmond"
+ },
+ {
+  "color": "#8A2BE2",
+  "color_name": "BlueViolet",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.121681",
+  "name": "BlueViolet"
+ },
+ {
+  "color": "#A52A2A",
+  "color_name": "Brown",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.128447",
+  "name": "Brown"
+ },
+ {
+  "color": "#DEB887",
+  "color_name": "BurlyWood",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.135257",
+  "name": "BurlyWood"
+ },
+ {
+  "color": "#5F9EA0",
+  "color_name": "CadetBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.142500",
+  "name": "CadetBlue"
+ },
+ {
+  "color": "#7FFF00",
+  "color_name": "Chartreuse",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.150778",
+  "name": "Chartreuse"
+ },
+ {
+  "color": "#D2691E",
+  "color_name": "Chocolate",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.161095",
+  "name": "Chocolate"
+ },
+ {
+  "color": "#FF7F50",
+  "color_name": "Coral",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.167302",
+  "name": "Coral"
+ },
+ {
+  "color": "#6495ED",
+  "color_name": "CornflowerBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.175070",
+  "name": "CornflowerBlue"
+ },
+ {
+  "color": "#FFF8DC",
+  "color_name": "Cornsilk",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.181115",
+  "name": "Cornsilk"
+ },
+ {
+  "color": "#DC143C",
+  "color_name": "Crimson",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.187433",
+  "name": "Crimson"
+ },
+ {
+  "color": "#00FFFF",
+  "color_name": "Cyan",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.195139",
+  "name": "Cyan"
+ },
+ {
+  "color": "#00008B",
+  "color_name": "DarkBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.202310",
+  "name": "DarkBlue"
+ },
+ {
+  "color": "#008B8B",
+  "color_name": "DarkCyan",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.208514",
+  "name": "DarkCyan"
+ },
+ {
+  "color": "#B8860B",
+  "color_name": "DarkGoldenRod",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.214903",
+  "name": "DarkGoldenRod"
+ },
+ {
+  "color": "#A9A9A9",
+  "color_name": "DarkGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.221750",
+  "name": "DarkGray"
+ },
+ {
+  "color": "#006400",
+  "color_name": "DarkGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.228231",
+  "name": "DarkGreen"
+ },
+ {
+  "color": "#BDB76B",
+  "color_name": "DarkKhaki",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.235666",
+  "name": "DarkKhaki"
+ },
+ {
+  "color": "#8B008B",
+  "color_name": "DarkMagenta",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.241680",
+  "name": "DarkMagenta"
+ },
+ {
+  "color": "#556B2F",
+  "color_name": "DarkOliveGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.248022",
+  "name": "DarkOliveGreen"
+ },
+ {
+  "color": "#FF8C00",
+  "color_name": "DarkOrange",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.257976",
+  "name": "DarkOrange"
+ },
+ {
+  "color": "#9932CC",
+  "color_name": "DarkOrchid",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.264962",
+  "name": "DarkOrchid"
+ },
+ {
+  "color": "#8B0000",
+  "color_name": "DarkRed",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.271015",
+  "name": "DarkRed"
+ },
+ {
+  "color": "#E9967A",
+  "color_name": "DarkSalmon",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.277069",
+  "name": "DarkSalmon"
+ },
+ {
+  "color": "#8FBC8F",
+  "color_name": "DarkSeaGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.283618",
+  "name": "DarkSeaGreen"
+ },
+ {
+  "color": "#483D8B",
+  "color_name": "DarkSlateBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.289900",
+  "name": "DarkSlateBlue"
+ },
+ {
+  "color": "#2F4F4F",
+  "color_name": "DarkSlateGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.297917",
+  "name": "DarkSlateGray"
+ },
+ {
+  "color": "#00CED1",
+  "color_name": "DarkTurquoise",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.304004",
+  "name": "DarkTurquoise"
+ },
+ {
+  "color": "#9400D3",
+  "color_name": "DarkViolet",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.317466",
+  "name": "DarkViolet"
+ },
+ {
+  "color": "#FF1493",
+  "color_name": "DeepPink",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.324347",
+  "name": "DeepPink"
+ },
+ {
+  "color": "#00BFFF",
+  "color_name": "DeepSkyBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.331220",
+  "name": "DeepSkyBlue"
+ },
+ {
+  "color": "#696969",
+  "color_name": "DimGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.337263",
+  "name": "DimGray"
+ },
+ {
+  "color": "#1E90FF",
+  "color_name": "DodgerBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.343400",
+  "name": "DodgerBlue"
+ },
+ {
+  "color": "#B22222",
+  "color_name": "FireBrick",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.349473",
+  "name": "FireBrick"
+ },
+ {
+  "color": "#FFFAF0",
+  "color_name": "FloralWhite",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.355615",
+  "name": "FloralWhite"
+ },
+ {
+  "color": "#228B22",
+  "color_name": "ForestGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.362666",
+  "name": "ForestGreen"
+ },
+ {
+  "color": "#FF00FF",
+  "color_name": "Fuchsia",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.368648",
+  "name": "Fuchsia"
+ },
+ {
+  "color": "#DCDCDC",
+  "color_name": "Gainsboro",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.374847",
+  "name": "Gainsboro"
+ },
+ {
+  "color": "#F8F8FF",
+  "color_name": "GhostWhite",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.380756",
+  "name": "GhostWhite"
+ },
+ {
+  "color": "#FFD700",
+  "color_name": "Gold",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.387058",
+  "name": "Gold"
+ },
+ {
+  "color": "#DAA520",
+  "color_name": "GoldenRod",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.396131",
+  "name": "GoldenRod"
+ },
+ {
+  "color": "#808080",
+  "color_name": "Gray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.403603",
+  "name": "Gray"
+ },
+ {
+  "color": "#008000",
+  "color_name": "Green",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.409725",
+  "name": "Green"
+ },
+ {
+  "color": "#ADFF2F",
+  "color_name": "GreenYellow",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.416750",
+  "name": "GreenYellow"
+ },
+ {
+  "color": "#F0FFF0",
+  "color_name": "HoneyDew",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.423973",
+  "name": "HoneyDew"
+ },
+ {
+  "color": "#FF69B4",
+  "color_name": "HotPink",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.429988",
+  "name": "HotPink"
+ },
+ {
+  "color": "#CD5C5C",
+  "color_name": "IndianRed",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.437291",
+  "name": "IndianRed"
+ },
+ {
+  "color": "#4B0082",
+  "color_name": "Indigo",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.443949",
+  "name": "Indigo"
+ },
+ {
+  "color": "#FFFFF0",
+  "color_name": "Ivory",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.451716",
+  "name": "Ivory"
+ },
+ {
+  "color": "#F0E68C",
+  "color_name": "Khaki",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.458819",
+  "name": "Khaki"
+ },
+ {
+  "color": "#E6E6FA",
+  "color_name": "Lavender",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.466323",
+  "name": "Lavender"
+ },
+ {
+  "color": "#FFF0F5",
+  "color_name": "LavenderBlush",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.472338",
+  "name": "LavenderBlush"
+ },
+ {
+  "color": "#7CFC00",
+  "color_name": "LawnGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.484793",
+  "name": "LawnGreen"
+ },
+ {
+  "color": "#FFFACD",
+  "color_name": "LemonChiffon",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.490896",
+  "name": "LemonChiffon"
+ },
+ {
+  "color": "#ADD8E6",
+  "color_name": "LightBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.498504",
+  "name": "LightBlue"
+ },
+ {
+  "color": "#F08080",
+  "color_name": "LightCoral",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.505681",
+  "name": "LightCoral"
+ },
+ {
+  "color": "#E0FFFF",
+  "color_name": "LightCyan",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.512113",
+  "name": "LightCyan"
+ },
+ {
+  "color": "#FAFAD2",
+  "color_name": "LightGoldenrodYellow",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.518805",
+  "name": "LightGoldenrodYellow"
+ },
+ {
+  "color": "#D3D3D3",
+  "color_name": "LightGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.525428",
+  "name": "LightGray"
+ },
+ {
+  "color": "#90EE90",
+  "color_name": "LightGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.532921",
+  "name": "LightGreen"
+ },
+ {
+  "color": "#FFB6C1",
+  "color_name": "LightPink",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.538824",
+  "name": "LightPink"
+ },
+ {
+  "color": "#FFA07A",
+  "color_name": "LightSalmon",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.546546",
+  "name": "LightSalmon"
+ },
+ {
+  "color": "#20B2AA",
+  "color_name": "LightSeaGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.553796",
+  "name": "LightSeaGreen"
+ },
+ {
+  "color": "#87CEFA",
+  "color_name": "LightSkyBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.561000",
+  "name": "LightSkyBlue"
+ },
+ {
+  "color": "#778899",
+  "color_name": "LightSlateGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.567920",
+  "name": "LightSlateGray"
+ },
+ {
+  "color": "#B0C4DE",
+  "color_name": "LightSteelBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.573650",
+  "name": "LightSteelBlue"
+ },
+ {
+  "color": "#FFFFE0",
+  "color_name": "LightYellow",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.579870",
+  "name": "LightYellow"
+ },
+ {
+  "color": "#00FF00",
+  "color_name": "Lime",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.586319",
+  "name": "Lime"
+ },
+ {
+  "color": "#32CD32",
+  "color_name": "LimeGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.594853",
+  "name": "LimeGreen"
+ },
+ {
+  "color": "#FAF0E6",
+  "color_name": "Linen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.608206",
+  "name": "Linen"
+ },
+ {
+  "color": "#FF00FF",
+  "color_name": "Magenta",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.615867",
+  "name": "Magenta"
+ },
+ {
+  "color": "#800000",
+  "color_name": "Maroon",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.626340",
+  "name": "Maroon"
+ },
+ {
+  "color": "#66CDAA",
+  "color_name": "MediumAquaMarine",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.638613",
+  "name": "MediumAquaMarine"
+ },
+ {
+  "color": "#0000CD",
+  "color_name": "MediumBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.644829",
+  "name": "MediumBlue"
+ },
+ {
+  "color": "#BA55D3",
+  "color_name": "MediumOrchid",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.651623",
+  "name": "MediumOrchid"
+ },
+ {
+  "color": "#9370DB",
+  "color_name": "MediumPurple",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.657660",
+  "name": "MediumPurple"
+ },
+ {
+  "color": "#3CB371",
+  "color_name": "MediumSeaGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.664370",
+  "name": "MediumSeaGreen"
+ },
+ {
+  "color": "#7B68EE",
+  "color_name": "MediumSlateBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.671587",
+  "name": "MediumSlateBlue"
+ },
+ {
+  "color": "#00FA9A",
+  "color_name": "MediumSpringGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.677782",
+  "name": "MediumSpringGreen"
+ },
+ {
+  "color": "#48D1CC",
+  "color_name": "MediumTurquoise",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.684344",
+  "name": "MediumTurquoise"
+ },
+ {
+  "color": "#C71585",
+  "color_name": "MediumVioletRed",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.690327",
+  "name": "MediumVioletRed"
+ },
+ {
+  "color": "#191970",
+  "color_name": "MidnightBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.697445",
+  "name": "MidnightBlue"
+ },
+ {
+  "color": "#F5FFFA",
+  "color_name": "MintCream",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.705090",
+  "name": "MintCream"
+ },
+ {
+  "color": "#FFE4E1",
+  "color_name": "MistyRose",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.711272",
+  "name": "MistyRose"
+ },
+ {
+  "color": "#FFE4B5",
+  "color_name": "Moccasin",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.717503",
+  "name": "Moccasin"
+ },
+ {
+  "color": "#FFDEAD",
+  "color_name": "NavajoWhite",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.724191",
+  "name": "NavajoWhite"
+ },
+ {
+  "color": "#000080",
+  "color_name": "Navy",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.730198",
+  "name": "Navy"
+ },
+ {
+  "color": "#FDF5E6",
+  "color_name": "OldLace",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.737236",
+  "name": "OldLace"
+ },
+ {
+  "color": "#808000",
+  "color_name": "Olive",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.743438",
+  "name": "Olive"
+ },
+ {
+  "color": "#6B8E23",
+  "color_name": "OliveDrab",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.750625",
+  "name": "OliveDrab"
+ },
+ {
+  "color": "#FFA500",
+  "color_name": "Orange",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.757448",
+  "name": "Orange"
+ },
+ {
+  "color": "#FF4500",
+  "color_name": "OrangeRed",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.764849",
+  "name": "OrangeRed"
+ },
+ {
+  "color": "#DA70D6",
+  "color_name": "Orchid",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.771789",
+  "name": "Orchid"
+ },
+ {
+  "color": "#EEE8AA",
+  "color_name": "PaleGoldenRod",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.777875",
+  "name": "PaleGoldenRod"
+ },
+ {
+  "color": "#98FB98",
+  "color_name": "PaleGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.784101",
+  "name": "PaleGreen"
+ },
+ {
+  "color": "#AFEEEE",
+  "color_name": "PaleTurquoise",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.792734",
+  "name": "PaleTurquoise"
+ },
+ {
+  "color": "#DB7093",
+  "color_name": "PaleVioletRed",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.799651",
+  "name": "PaleVioletRed"
+ },
+ {
+  "color": "#FFEFD5",
+  "color_name": "PapayaWhip",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.808192",
+  "name": "PapayaWhip"
+ },
+ {
+  "color": "#FFDAB9",
+  "color_name": "PeachPuff",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.815124",
+  "name": "PeachPuff"
+ },
+ {
+  "color": "#CD853F",
+  "color_name": "Peru",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.820965",
+  "name": "Peru"
+ },
+ {
+  "color": "#FFC0CB",
+  "color_name": "Pink",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.827814",
+  "name": "Pink"
+ },
+ {
+  "color": "#DDA0DD",
+  "color_name": "Plum",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.833804",
+  "name": "Plum"
+ },
+ {
+  "color": "#B0E0E6",
+  "color_name": "PowderBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.839964",
+  "name": "PowderBlue"
+ },
+ {
+  "color": "#800080",
+  "color_name": "Purple",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.846572",
+  "name": "Purple"
+ },
+ {
+  "color": "#663399",
+  "color_name": "RebeccaPurple",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.853009",
+  "name": "RebeccaPurple"
+ },
+ {
+  "color": "#FF0000",
+  "color_name": "Red",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.859767",
+  "name": "Red"
+ },
+ {
+  "color": "#BC8F8F",
+  "color_name": "RosyBrown",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.867160",
+  "name": "RosyBrown"
+ },
+ {
+  "color": "#4169E1",
+  "color_name": "RoyalBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.874313",
+  "name": "RoyalBlue"
+ },
+ {
+  "color": "#8B4513",
+  "color_name": "SaddleBrown",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.880764",
+  "name": "SaddleBrown"
+ },
+ {
+  "color": "#FA8072",
+  "color_name": "Salmon",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.887399",
+  "name": "Salmon"
+ },
+ {
+  "color": "#F4A460",
+  "color_name": "SandyBrown",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.894515",
+  "name": "SandyBrown"
+ },
+ {
+  "color": "#2E8B57",
+  "color_name": "SeaGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.900244",
+  "name": "SeaGreen"
+ },
+ {
+  "color": "#FFF5EE",
+  "color_name": "SeaShell",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.917380",
+  "name": "SeaShell"
+ },
+ {
+  "color": "#A0522D",
+  "color_name": "Sienna",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.924216",
+  "name": "Sienna"
+ },
+ {
+  "color": "#C0C0C0",
+  "color_name": "Silver",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.930549",
+  "name": "Silver"
+ },
+ {
+  "color": "#87CEEB",
+  "color_name": "SkyBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.937074",
+  "name": "SkyBlue"
+ },
+ {
+  "color": "#6A5ACD",
+  "color_name": "SlateBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.943108",
+  "name": "SlateBlue"
+ },
+ {
+  "color": "#708090",
+  "color_name": "SlateGray",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.949543",
+  "name": "SlateGray"
+ },
+ {
+  "color": "#FFFAFA",
+  "color_name": "Snow",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.956704",
+  "name": "Snow"
+ },
+ {
+  "color": "#00FF7F",
+  "color_name": "SpringGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.962705",
+  "name": "SpringGreen"
+ },
+ {
+  "color": "#4682B4",
+  "color_name": "SteelBlue",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.969574",
+  "name": "SteelBlue"
+ },
+ {
+  "color": "#D2B48C",
+  "color_name": "Tan",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.975812",
+  "name": "Tan"
+ },
+ {
+  "color": "#008080",
+  "color_name": "Teal",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.982133",
+  "name": "Teal"
+ },
+ {
+  "color": "#D8BFD8",
+  "color_name": "Thistle",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.988411",
+  "name": "Thistle"
+ },
+ {
+  "color": "#FF6347",
+  "color_name": "Tomato",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:17.994534",
+  "name": "Tomato"
+ },
+ {
+  "color": "#40E0D0",
+  "color_name": "Turquoise",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.000547",
+  "name": "Turquoise"
+ },
+ {
+  "color": "#EE82EE",
+  "color_name": "Violet",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.007006",
+  "name": "Violet"
+ },
+ {
+  "color": "#F5DEB3",
+  "color_name": "Wheat",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.015239",
+  "name": "Wheat"
+ },
+ {
+  "color": "#FFFFFF",
+  "color_name": "White",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.021748",
+  "name": "White"
+ },
+ {
+  "color": "#F5F5F5",
+  "color_name": "WhiteSmoke",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.028137",
+  "name": "WhiteSmoke"
+ },
+ {
+  "color": "#FFFF00",
+  "color_name": "Yellow",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.033798",
+  "name": "Yellow"
+ },
+ {
+  "color": "#9ACD32",
+  "color_name": "YellowGreen",
+  "docstatus": 0,
+  "doctype": "Product Color",
+  "modified": "2025-10-23 13:51:18.039675",
+  "name": "YellowGreen"
+ }
+]

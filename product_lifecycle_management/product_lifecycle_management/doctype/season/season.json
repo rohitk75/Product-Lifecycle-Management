@@ -15,6 +15,7 @@
   "column_break_hjzp",
   "description",
   "specific_year",
+  "season_year",
   "section_break_dwft",
   "launch_date_start",
   "selling_date_start",
@@ -26,6 +27,8 @@
   {
    "fieldname": "season_type",
    "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
    "label": "Season Type",
    "options": "Core Fashion Seasons\nTransitional & Bridge Collections\nCapsule & Commercial Retail Seasons\nCouture & Luxury Fashion Calendar\nMarketing & Thematic Retail Moments",
    "reqd": 1
@@ -35,15 +38,15 @@
    "fieldname": "season_code",
    "fieldtype": "Data",
    "in_filter": 1,
-   "in_list_view": 1,
    "label": "Season Code",
-   "length": 10,
+   "length": 15,
    "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "season_name",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "Season Name"
   },
   {
@@ -82,6 +85,7 @@
   {
    "fieldname": "launch_period",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "Launch Period",
    "read_only": 1
   },
@@ -94,6 +98,7 @@
   {
    "fieldname": "selling_period",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "Selling Period",
    "read_only": 1
   },
@@ -101,12 +106,19 @@
    "fieldname": "selling_date_start",
    "fieldtype": "Date",
    "label": "Selling Date Start"
+  },
+  {
+   "depends_on": "eval: doc.specific_year == '1'",
+   "fieldname": "season_year",
+   "fieldtype": "Data",
+   "label": "Season Year",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-23 17:29:08.577972",
+ "modified": "2025-10-27 12:14:16.557626",
  "modified_by": "Administrator",
  "module": "Product Lifecycle Management",
  "name": "Season",

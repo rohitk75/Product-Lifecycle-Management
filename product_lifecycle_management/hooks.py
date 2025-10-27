@@ -244,9 +244,13 @@ app_license = "mit"
 
 # Product Lifecycle Management Supporting Doctypes with Data 
 fixtures = [
-{"doctype": "Size Groups"},
-{"doctype": "Season"},
 {"doctype": "Product Category"},
+{"doctype": "Season"},
+{"doctype": "Size Groups"},
+{"doctype": "Brand"},
+{"doctype": "Nature"},
+{"doctype": "Fabric"},
+{"doctype": "Product Color"},
 {"doctype": "Role",
             "filters": [
                 ["name", "in", ("PLM Manager", "PLM User")]

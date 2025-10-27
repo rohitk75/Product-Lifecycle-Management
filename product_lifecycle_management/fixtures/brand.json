@@ -1,0 +1,5792 @@
+[
+ {
+  "brand": "1 MILLION FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.542693",
+  "name": "1 MILLION FOR LADY"
+ },
+ {
+  "brand": "212 ON ICE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.565923",
+  "name": "212 ON ICE"
+ },
+ {
+  "brand": "212 POP FOR LADY'S",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.575376",
+  "name": "212 POP FOR LADY'S"
+ },
+ {
+  "brand": "212 POP FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.582986",
+  "name": "212 POP FOR MEN"
+ },
+ {
+  "brand": "212 SEXY LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.589352",
+  "name": "212 SEXY LADY"
+ },
+ {
+  "brand": "212 SEXY MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.596033",
+  "name": "212 SEXY MEN"
+ },
+ {
+  "brand": "212 SUMMER FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.604319",
+  "name": "212 SUMMER FOR WOMEN"
+ },
+ {
+  "brand": "212 VIP",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.611635",
+  "name": "212 VIP"
+ },
+ {
+  "brand": "4YOU",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.620602",
+  "name": "4YOU"
+ },
+ {
+  "brand": "6 PLUS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.627617",
+  "name": "6 PLUS"
+ },
+ {
+  "brand": "A SCENT BY ISSEY MIYAKE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.637388",
+  "name": "A SCENT BY ISSEY MIYAKE"
+ },
+ {
+  "brand": "ABBATE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.643836",
+  "name": "ABBATE"
+ },
+ {
+  "brand": "ABSOLUTELY IRRESISTIBLE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.650518",
+  "name": "ABSOLUTELY IRRESISTIBLE"
+ },
+ {
+  "brand": "ADDICT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.657655",
+  "name": "ADDICT"
+ },
+ {
+  "brand": "ADDICT SENSUAL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.665973",
+  "name": "ADDICT SENSUAL"
+ },
+ {
+  "brand": "ADDICT TO LIFE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.675225",
+  "name": "ADDICT TO LIFE"
+ },
+ {
+  "brand": "ADIDAS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.681782",
+  "name": "ADIDAS"
+ },
+ {
+  "brand": "ADORA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.688143",
+  "name": "ADORA"
+ },
+ {
+  "brand": "ADRIENNE VITTADINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.696459",
+  "name": "ADRIENNE VITTADINI"
+ },
+ {
+  "brand": "AGAUA DE LOEWE FOR HER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.702452",
+  "name": "AGAUA DE LOEWE FOR HER"
+ },
+ {
+  "brand": "AGAUA DE LOEWE FOR HIM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.710648",
+  "name": "AGAUA DE LOEWE FOR HIM"
+ },
+ {
+  "brand": "AGNER BLACK FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.719683",
+  "name": "AGNER BLACK FOR MEN"
+ },
+ {
+  "brand": "AIGNER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.727488",
+  "name": "AIGNER"
+ },
+ {
+  "brand": "AIGNER WHITE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.739063",
+  "name": "AIGNER WHITE"
+ },
+ {
+  "brand": "AL SALAM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.745701",
+  "name": "AL SALAM"
+ },
+ {
+  "brand": "ALBERTO PAOLUCCI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.752288",
+  "name": "ALBERTO PAOLUCCI"
+ },
+ {
+  "brand": "ALBERTO PAOLUCCI PREMIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.761234",
+  "name": "ALBERTO PAOLUCCI PREMIUM"
+ },
+ {
+  "brand": "ALLURE HOME SPORT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.768176",
+  "name": "ALLURE HOME SPORT"
+ },
+ {
+  "brand": "ALTERATION",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.775041",
+  "name": "ALTERATION"
+ },
+ {
+  "brand": "AMBER MYSTIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.781548",
+  "name": "AMBER MYSTIQUE"
+ },
+ {
+  "brand": "AMI AIRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.793866",
+  "name": "AMI AIRE"
+ },
+ {
+  "brand": "ANDREW CHARLES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.808716",
+  "name": "ANDREW CHARLES"
+ },
+ {
+  "brand": "ANGEL AQUA CHIC FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.819111",
+  "name": "ANGEL AQUA CHIC FOR LADY"
+ },
+ {
+  "brand": "ANGEL MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.827956",
+  "name": "ANGEL MEN"
+ },
+ {
+  "brand": "ANGELO LITRICO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.848863",
+  "name": "ANGELO LITRICO"
+ },
+ {
+  "brand": "ANTONIO BANDERAS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.858781",
+  "name": "ANTONIO BANDERAS"
+ },
+ {
+  "brand": "ANTONIO BASILE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.865955",
+  "name": "ANTONIO BASILE"
+ },
+ {
+  "brand": "ANTONIO PUIG",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.872612",
+  "name": "ANTONIO PUIG"
+ },
+ {
+  "brand": "APPARITION HOMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.881043",
+  "name": "APPARITION HOMME"
+ },
+ {
+  "brand": "AQUA CHIC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.890528",
+  "name": "AQUA CHIC"
+ },
+ {
+  "brand": "AQUA FAHRENHEIT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.898082",
+  "name": "AQUA FAHRENHEIT"
+ },
+ {
+  "brand": "AQUAZUR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.910939",
+  "name": "AQUAZUR"
+ },
+ {
+  "brand": "ARAMIS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.919794",
+  "name": "ARAMIS"
+ },
+ {
+  "brand": "ARAMIS 900",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.926339",
+  "name": "ARAMIS 900"
+ },
+ {
+  "brand": "ARDEN BEAUTY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.932894",
+  "name": "ARDEN BEAUTY"
+ },
+ {
+  "brand": "ARMANI CODE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.941178",
+  "name": "ARMANI CODE"
+ },
+ {
+  "brand": "ARMANI CODE SPORT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.950446",
+  "name": "ARMANI CODE SPORT"
+ },
+ {
+  "brand": "ARMANI CODE WOMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.957758",
+  "name": "ARMANI CODE WOMAN"
+ },
+ {
+  "brand": "ARNETTE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.965272",
+  "name": "ARNETTE"
+ },
+ {
+  "brand": "AROMATIC ELIXER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.977024",
+  "name": "AROMATIC ELIXER"
+ },
+ {
+  "brand": "AURAS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.985088",
+  "name": "AURAS"
+ },
+ {
+  "brand": "AZZARO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.991660",
+  "name": "AZZARO"
+ },
+ {
+  "brand": "AZZARO L'EAU",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:25.997671",
+  "name": "AZZARO L'EAU"
+ },
+ {
+  "brand": "BALDESSARINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.005016",
+  "name": "BALDESSARINI"
+ },
+ {
+  "brand": "BALMAIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.012562",
+  "name": "BALMAIN"
+ },
+ {
+  "brand": "BANG",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.019201",
+  "name": "BANG"
+ },
+ {
+  "brand": "BANZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.025318",
+  "name": "BANZ"
+ },
+ {
+  "brand": "BARBIE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.031780",
+  "name": "BARBIE"
+ },
+ {
+  "brand": "BARRACUDA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.043589",
+  "name": "BARRACUDA"
+ },
+ {
+  "brand": "BASE-LINE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.050158",
+  "name": "BASE-LINE"
+ },
+ {
+  "brand": "BASEMENT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.056700",
+  "name": "BASEMENT"
+ },
+ {
+  "brand": "BASILE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.063433",
+  "name": "BASILE"
+ },
+ {
+  "brand": "BASILE TUXEDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.071574",
+  "name": "BASILE TUXEDO"
+ },
+ {
+  "brand": "BEAT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.078064",
+  "name": "BEAT"
+ },
+ {
+  "brand": "BEAUTIFUL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.084593",
+  "name": "BEAUTIFUL"
+ },
+ {
+  "brand": "BELENCIOCA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.090858",
+  "name": "BELENCIOCA"
+ },
+ {
+  "brand": "BELLE D OPIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.097605",
+  "name": "BELLE D OPIUM"
+ },
+ {
+  "brand": "BELLINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.105579",
+  "name": "BELLINI"
+ },
+ {
+  "brand": "BELLISSIMA INTENSE FOR LADY'S",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.112318",
+  "name": "BELLISSIMA INTENSE FOR LADY'S"
+ },
+ {
+  "brand": "BEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.119302",
+  "name": "BEN"
+ },
+ {
+  "brand": "BENETTON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.126213",
+  "name": "BENETTON"
+ },
+ {
+  "brand": "BENTLEY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.134306",
+  "name": "BENTLEY"
+ },
+ {
+  "brand": "BERGHAM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.141364",
+  "name": "BERGHAM"
+ },
+ {
+  "brand": "BEST",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.149912",
+  "name": "BEST"
+ },
+ {
+  "brand": "BESTWAY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.156409",
+  "name": "BESTWAY"
+ },
+ {
+  "brand": "BEYONCE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.164801",
+  "name": "BEYONCE"
+ },
+ {
+  "brand": "BEYONCE HEAT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.171730",
+  "name": "BEYONCE HEAT"
+ },
+ {
+  "brand": "BIGMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.178084",
+  "name": "BIGMAN"
+ },
+ {
+  "brand": "BINNINO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.185479",
+  "name": "BINNINO"
+ },
+ {
+  "brand": "BIONATURA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.195079",
+  "name": "BIONATURA"
+ },
+ {
+  "brand": "BIRD DOG BAY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.205031",
+  "name": "BIRD DOG BAY"
+ },
+ {
+  "brand": "BLACK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.211172",
+  "name": "BLACK"
+ },
+ {
+  "brand": "BLACK ORCHID",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.217124",
+  "name": "BLACK ORCHID"
+ },
+ {
+  "brand": "BLACK XS L'EXCES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.224674",
+  "name": "BLACK XS L'EXCES"
+ },
+ {
+  "brand": "BLING2O",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.233080",
+  "name": "BLING2O"
+ },
+ {
+  "brand": "BLOOM FOR LADY'S",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.240448",
+  "name": "BLOOM FOR LADY'S"
+ },
+ {
+  "brand": "BLUE SEDUCTION FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.246984",
+  "name": "BLUE SEDUCTION FOR MEN"
+ },
+ {
+  "brand": "BLUMARINE BELLISSIMA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.259562",
+  "name": "BLUMARINE BELLISSIMA"
+ },
+ {
+  "brand": "BODY PLUS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.266945",
+  "name": "BODY PLUS"
+ },
+ {
+  "brand": "BOGART",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.274124",
+  "name": "BOGART"
+ },
+ {
+  "brand": "BRANDS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.280983",
+  "name": "BRANDS"
+ },
+ {
+  "brand": "BRANDS BOX TIE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.290075",
+  "name": "BRANDS BOX TIE"
+ },
+ {
+  "brand": "BRANDS LUXURY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.296446",
+  "name": "BRANDS LUXURY"
+ },
+ {
+  "brand": "BRANDS MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.303329",
+  "name": "BRANDS MIX"
+ },
+ {
+  "brand": "BRANDS SARTORIALE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.310170",
+  "name": "BRANDS SARTORIALE"
+ },
+ {
+  "brand": "BRANDS SELECTION",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.316254",
+  "name": "BRANDS SELECTION"
+ },
+ {
+  "brand": "BRANDS TUXEDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.324245",
+  "name": "BRANDS TUXEDO"
+ },
+ {
+  "brand": "BRANDS-MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.331150",
+  "name": "BRANDS-MIX"
+ },
+ {
+  "brand": "BRAND-WOOL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.338020",
+  "name": "BRAND-WOOL"
+ },
+ {
+  "brand": "BRIANER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.345537",
+  "name": "BRIANER"
+ },
+ {
+  "brand": "BRIONI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.355556",
+  "name": "BRIONI"
+ },
+ {
+  "brand": "BRIT LIMITED EDITION FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.361677",
+  "name": "BRIT LIMITED EDITION FOR WOMEN"
+ },
+ {
+  "brand": "BRIT RED SPECIAL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.373112",
+  "name": "BRIT RED SPECIAL"
+ },
+ {
+  "brand": "BRITNEY SPEAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.380431",
+  "name": "BRITNEY SPEAR"
+ },
+ {
+  "brand": "BULGARINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.388676",
+  "name": "BULGARINI"
+ },
+ {
+  "brand": "BURBERRY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.395006",
+  "name": "BURBERRY"
+ },
+ {
+  "brand": "BVLGARI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.401819",
+  "name": "BVLGARI"
+ },
+ {
+  "brand": "CAFE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.408749",
+  "name": "CAFE"
+ },
+ {
+  "brand": "CALLIGRAPHY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.419095",
+  "name": "CALLIGRAPHY"
+ },
+ {
+  "brand": "CALLIGRAPHY ROSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.425811",
+  "name": "CALLIGRAPHY ROSE"
+ },
+ {
+  "brand": "CALVIN KLEIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.431860",
+  "name": "CALVIN KLEIN"
+ },
+ {
+  "brand": "CANDA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.437853",
+  "name": "CANDA"
+ },
+ {
+  "brand": "CANDY FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.445355",
+  "name": "CANDY FOR WOMEN"
+ },
+ {
+  "brand": "CAPACITA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.451581",
+  "name": "CAPACITA"
+ },
+ {
+  "brand": "CAROLINA HERRERA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.460039",
+  "name": "CAROLINA HERRERA"
+ },
+ {
+  "brand": "CARRERA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.467213",
+  "name": "CARRERA"
+ },
+ {
+  "brand": "CARTIER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.482176",
+  "name": "CARTIER"
+ },
+ {
+  "brand": "CASCADE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.507513",
+  "name": "CASCADE"
+ },
+ {
+  "brand": "CAVALERO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.514047",
+  "name": "CAVALERO"
+ },
+ {
+  "brand": "CAVALLO GENTILI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.520210",
+  "name": "CAVALLO GENTILI"
+ },
+ {
+  "brand": "CEREMONIA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.526639",
+  "name": "CEREMONIA"
+ },
+ {
+  "brand": "CERRUTI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.532677",
+  "name": "CERRUTI"
+ },
+ {
+  "brand": "CERRUTI 1881",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.539659",
+  "name": "CERRUTI 1881"
+ },
+ {
+  "brand": "CH SPORT FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.546488",
+  "name": "CH SPORT FOR MEN"
+ },
+ {
+  "brand": "CHAMPION ENERGY for MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.564024",
+  "name": "CHAMPION ENERGY for MEN"
+ },
+ {
+  "brand": "CHANEL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.571713",
+  "name": "CHANEL"
+ },
+ {
+  "brand": "CHARLES DASTIER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.578514",
+  "name": "CHARLES DASTIER"
+ },
+ {
+  "brand": "CHERIE HISTOIRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.584591",
+  "name": "CHERIE HISTOIRE"
+ },
+ {
+  "brand": "CHLOE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.590526",
+  "name": "CHLOE"
+ },
+ {
+  "brand": "CHLOE FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.596479",
+  "name": "CHLOE FOR LADY"
+ },
+ {
+  "brand": "CHLOE INTENSE FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.603204",
+  "name": "CHLOE INTENSE FOR LADY"
+ },
+ {
+  "brand": "CHLOE LOVE INTENSE FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.609993",
+  "name": "CHLOE LOVE INTENSE FOR LADY"
+ },
+ {
+  "brand": "CHOPARD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.616459",
+  "name": "CHOPARD"
+ },
+ {
+  "brand": "CHRISBELLA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.622819",
+  "name": "CHRISBELLA"
+ },
+ {
+  "brand": "CHRISHEWSON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.629942",
+  "name": "CHRISHEWSON"
+ },
+ {
+  "brand": "CHRISTIAN DIOR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.635805",
+  "name": "CHRISTIAN DIOR"
+ },
+ {
+  "brand": "CIA.DOTERNO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.641891",
+  "name": "CIA.DOTERNO"
+ },
+ {
+  "brand": "CK FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.648689",
+  "name": "CK FOR MEN"
+ },
+ {
+  "brand": "CK ONE SHOCK FOR HER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.655102",
+  "name": "CK ONE SHOCK FOR HER"
+ },
+ {
+  "brand": "CK ONE SUMMER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.661512",
+  "name": "CK ONE SUMMER"
+ },
+ {
+  "brand": "CLASSIQUE FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.670121",
+  "name": "CLASSIQUE FOR LADY"
+ },
+ {
+  "brand": "CLINIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.676317",
+  "name": "CLINIQUE"
+ },
+ {
+  "brand": "CLOWSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.682773",
+  "name": "CLOWSE"
+ },
+ {
+  "brand": "CMT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.689123",
+  "name": "CMT"
+ },
+ {
+  "brand": "COACH",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.695639",
+  "name": "COACH"
+ },
+ {
+  "brand": "COLOR HUNT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.701742",
+  "name": "COLOR HUNT"
+ },
+ {
+  "brand": "COMPANY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.709190",
+  "name": "COMPANY"
+ },
+ {
+  "brand": "CONSOLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.715616",
+  "name": "CONSOLI"
+ },
+ {
+  "brand": "COOLIBAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.722064",
+  "name": "COOLIBAR"
+ },
+ {
+  "brand": "COTTER BUCK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.729189",
+  "name": "COTTER BUCK"
+ },
+ {
+  "brand": "COUTURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.735559",
+  "name": "COUTURE"
+ },
+ {
+  "brand": "D & G LIGHT BLUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.742145",
+  "name": "D & G LIGHT BLUE"
+ },
+ {
+  "brand": "DANIEL HECHTER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.753333",
+  "name": "DANIEL HECHTER"
+ },
+ {
+  "brand": "DAVID BECKHAM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.759979",
+  "name": "DAVID BECKHAM"
+ },
+ {
+  "brand": "DAVID SADDLER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.767126",
+  "name": "DAVID SADDLER"
+ },
+ {
+  "brand": "DAVID YURMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.773632",
+  "name": "DAVID YURMAN"
+ },
+ {
+  "brand": "DAVIDOFF",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.780275",
+  "name": "DAVIDOFF"
+ },
+ {
+  "brand": "DES INDES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.791456",
+  "name": "DES INDES"
+ },
+ {
+  "brand": "DESIRE FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.797754",
+  "name": "DESIRE FOR WOMEN"
+ },
+ {
+  "brand": "DESIRE ME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.803803",
+  "name": "DESIRE ME"
+ },
+ {
+  "brand": "DEVIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.810344",
+  "name": "DEVIN"
+ },
+ {
+  "brand": "DEVOTION CLUB",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.817414",
+  "name": "DEVOTION CLUB"
+ },
+ {
+  "brand": "DI NAPOLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.824326",
+  "name": "DI NAPOLI"
+ },
+ {
+  "brand": "DI PARMA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.830631",
+  "name": "DI PARMA"
+ },
+ {
+  "brand": "DIESEL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.836894",
+  "name": "DIESEL"
+ },
+ {
+  "brand": "DIOMOND",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.843328",
+  "name": "DIOMOND"
+ },
+ {
+  "brand": "DKNY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.849972",
+  "name": "DKNY"
+ },
+ {
+  "brand": "DKS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.864736",
+  "name": "DKS"
+ },
+ {
+  "brand": "DKS CUFFLINK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.876230",
+  "name": "DKS CUFFLINK"
+ },
+ {
+  "brand": "DKS SIGNATURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.883782",
+  "name": "DKS SIGNATURE"
+ },
+ {
+  "brand": "DOC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.891025",
+  "name": "DOC"
+ },
+ {
+  "brand": "DOLCE & GABBANA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.900551",
+  "name": "DOLCE & GABBANA"
+ },
+ {
+  "brand": "DOLCE AND GABBANA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.913798",
+  "name": "DOLCE AND GABBANA"
+ },
+ {
+  "brand": "DOLCE VITA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.921500",
+  "name": "DOLCE VITA"
+ },
+ {
+  "brand": "DREAM FASHION",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.928044",
+  "name": "DREAM FASHION"
+ },
+ {
+  "brand": "DSQUARED",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.934998",
+  "name": "DSQUARED"
+ },
+ {
+  "brand": "DUETO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.941234",
+  "name": "DUETO"
+ },
+ {
+  "brand": "DUMONT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.950253",
+  "name": "DUMONT"
+ },
+ {
+  "brand": "DUNE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.956773",
+  "name": "DUNE"
+ },
+ {
+  "brand": "DUNHILL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.962989",
+  "name": "DUNHILL"
+ },
+ {
+  "brand": "EASY WEAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.969392",
+  "name": "EASY WEAR"
+ },
+ {
+  "brand": "EAU DE POUR FEMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.977868",
+  "name": "EAU DE POUR FEMME"
+ },
+ {
+  "brand": "EAU MEGA VIKTOR & ROLF",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.988090",
+  "name": "EAU MEGA VIKTOR & ROLF"
+ },
+ {
+  "brand": "ECHO MAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:26.994385",
+  "name": "ECHO MAN"
+ },
+ {
+  "brand": "ECHO WOMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.001117",
+  "name": "ECHO WOMAN"
+ },
+ {
+  "brand": "EDGERS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.007925",
+  "name": "EDGERS"
+ },
+ {
+  "brand": "EGOIST PLATINUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.013796",
+  "name": "EGOIST PLATINUM"
+ },
+ {
+  "brand": "ELIE SAAB",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.019974",
+  "name": "ELIE SAAB"
+ },
+ {
+  "brand": "ELIZABETH ARDEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.026290",
+  "name": "ELIZABETH ARDEN"
+ },
+ {
+  "brand": "ELIZABETH TAYLOR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.032745",
+  "name": "ELIZABETH TAYLOR"
+ },
+ {
+  "brand": "ELLEN TRACY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.039900",
+  "name": "ELLEN TRACY"
+ },
+ {
+  "brand": "EMPORIO ARMANI DIAMONDS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.046033",
+  "name": "EMPORIO ARMANI DIAMONDS"
+ },
+ {
+  "brand": "ENCHANTED SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.052179",
+  "name": "ENCHANTED SET"
+ },
+ {
+  "brand": "ENCRE NOIRE POUR FEMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.058942",
+  "name": "ENCRE NOIRE POUR FEMME"
+ },
+ {
+  "brand": "ESCADA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.065132",
+  "name": "ESCADA"
+ },
+ {
+  "brand": "ESCADA OCEAN LOUNGE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.072419",
+  "name": "ESCADA OCEAN LOUNGE"
+ },
+ {
+  "brand": "ESENCIA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.080855",
+  "name": "ESENCIA"
+ },
+ {
+  "brand": "ESPRIT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.087169",
+  "name": "ESPRIT"
+ },
+ {
+  "brand": "ESSENSE MUSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.093537",
+  "name": "ESSENSE MUSE"
+ },
+ {
+  "brand": "ESSENTIAL SPORT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.100696",
+  "name": "ESSENTIAL SPORT"
+ },
+ {
+  "brand": "ESTEE LAUDER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.107185",
+  "name": "ESTEE LAUDER"
+ },
+ {
+  "brand": "ETERNITY AQUA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.113468",
+  "name": "ETERNITY AQUA"
+ },
+ {
+  "brand": "ETERNITY FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.120263",
+  "name": "ETERNITY FOR MEN"
+ },
+ {
+  "brand": "ETERNITY FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.126792",
+  "name": "ETERNITY FOR WOMEN"
+ },
+ {
+  "brand": "ETRING LE SECRET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.133101",
+  "name": "ETRING LE SECRET"
+ },
+ {
+  "brand": "ETTORE FIRENZE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.139588",
+  "name": "ETTORE FIRENZE"
+ },
+ {
+  "brand": "EUPHORIA FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.146508",
+  "name": "EUPHORIA FOR MEN"
+ },
+ {
+  "brand": "EUPHORIA FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.153307",
+  "name": "EUPHORIA FOR WOMEN"
+ },
+ {
+  "brand": "EUPORIA MEN INTENSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.159783",
+  "name": "EUPORIA MEN INTENSE"
+ },
+ {
+  "brand": "EUROPECAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.166731",
+  "name": "EUROPECAR"
+ },
+ {
+  "brand": "EWA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.173047",
+  "name": "EWA"
+ },
+ {
+  "brand": "EXC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.181583",
+  "name": "EXC"
+ },
+ {
+  "brand": "EXC & HANDEX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.187838",
+  "name": "EXC & HANDEX"
+ },
+ {
+  "brand": "EXTREME CAM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.194642",
+  "name": "EXTREME CAM"
+ },
+ {
+  "brand": "F & B",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.201017",
+  "name": "F & B"
+ },
+ {
+  "brand": "FANTASY FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.207578",
+  "name": "FANTASY FLOWER"
+ },
+ {
+  "brand": "FEDERER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.213635",
+  "name": "FEDERER"
+ },
+ {
+  "brand": "FENDI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.220407",
+  "name": "FENDI"
+ },
+ {
+  "brand": "FERRANTE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.227043",
+  "name": "FERRANTE"
+ },
+ {
+  "brand": "FERRARI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.233115",
+  "name": "FERRARI"
+ },
+ {
+  "brand": "FERRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.239217",
+  "name": "FERRE"
+ },
+ {
+  "brand": "FIGO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.245551",
+  "name": "FIGO"
+ },
+ {
+  "brand": "FIRST QUEEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.251835",
+  "name": "FIRST QUEEN"
+ },
+ {
+  "brand": "FIT & COLOR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.259150",
+  "name": "FIT & COLOR"
+ },
+ {
+  "brand": "FLEUR DE CRISTAL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.265557",
+  "name": "FLEUR DE CRISTAL"
+ },
+ {
+  "brand": "FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.271697",
+  "name": "FOR WOMEN"
+ },
+ {
+  "brand": "FORBIDDEN EUPHORIA L",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.287494",
+  "name": "FORBIDDEN EUPHORIA L"
+ },
+ {
+  "brand": "FOREVER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.294699",
+  "name": "FOREVER"
+ },
+ {
+  "brand": "FOREVER FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.301435",
+  "name": "FOREVER FOR MEN"
+ },
+ {
+  "brand": "FOUR SQUARE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.308424",
+  "name": "FOUR SQUARE"
+ },
+ {
+  "brand": "FRANCISCO TOLLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.315562",
+  "name": "FRANCISCO TOLLI"
+ },
+ {
+  "brand": "FRANCISCO TOLLI TUXEDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.323412",
+  "name": "FRANCISCO TOLLI TUXEDO"
+ },
+ {
+  "brand": "FRANCO MARTINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.330280",
+  "name": "FRANCO MARTINI"
+ },
+ {
+  "brand": "FRATELLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.337559",
+  "name": "FRATELLI"
+ },
+ {
+  "brand": "FREE FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.344316",
+  "name": "FREE FOR MEN"
+ },
+ {
+  "brand": "FUEL FOR LIFE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.353699",
+  "name": "FUEL FOR LIFE"
+ },
+ {
+  "brand": "FUHONG",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.361576",
+  "name": "FUHONG"
+ },
+ {
+  "brand": "G.FERRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.369000",
+  "name": "G.FERRE"
+ },
+ {
+  "brand": "G.FERRETI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.375839",
+  "name": "G.FERRETI"
+ },
+ {
+  "brand": "GANT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.383678",
+  "name": "GANT"
+ },
+ {
+  "brand": "GIORGIO ARMANI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.391078",
+  "name": "GIORGIO ARMANI"
+ },
+ {
+  "brand": "GIORGIO BEVERLY HILLS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.397848",
+  "name": "GIORGIO BEVERLY HILLS"
+ },
+ {
+  "brand": "GIOVANE RICCO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.405223",
+  "name": "GIOVANE RICCO"
+ },
+ {
+  "brand": "GIVENCHY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.412924",
+  "name": "GIVENCHY"
+ },
+ {
+  "brand": "GLAMOUR FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.419748",
+  "name": "GLAMOUR FLOWER"
+ },
+ {
+  "brand": "G-MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.426431",
+  "name": "G-MEN"
+ },
+ {
+  "brand": "GOOD YEAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.433324",
+  "name": "GOOD YEAR"
+ },
+ {
+  "brand": "GRASS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.439914",
+  "name": "GRASS"
+ },
+ {
+  "brand": "GRAY FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.446132",
+  "name": "GRAY FOR MEN"
+ },
+ {
+  "brand": "GREEN TEA SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.452443",
+  "name": "GREEN TEA SET"
+ },
+ {
+  "brand": "GRES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.459541",
+  "name": "GRES"
+ },
+ {
+  "brand": "GREY VETIVER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.465343",
+  "name": "GREY VETIVER"
+ },
+ {
+  "brand": "GUCCI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.471708",
+  "name": "GUCCI"
+ },
+ {
+  "brand": "GUERLAIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.479494",
+  "name": "GUERLAIN"
+ },
+ {
+  "brand": "GUESS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.487863",
+  "name": "GUESS"
+ },
+ {
+  "brand": "GUILTY FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.494095",
+  "name": "GUILTY FOR LADY"
+ },
+ {
+  "brand": "GUY LAROCHE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.500265",
+  "name": "GUY LAROCHE"
+ },
+ {
+  "brand": "HALIFAKS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.507164",
+  "name": "HALIFAKS"
+ },
+ {
+  "brand": "HALIFAKS PREMIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.513781",
+  "name": "HALIFAKS PREMIUM"
+ },
+ {
+  "brand": "HAPPY FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.520072",
+  "name": "HAPPY FOR MEN"
+ },
+ {
+  "brand": "HARISON FORDE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.526748",
+  "name": "HARISON FORDE"
+ },
+ {
+  "brand": "HEKMU TOMMY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.532739",
+  "name": "HEKMU TOMMY"
+ },
+ {
+  "brand": "HELLO KITTY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.539441",
+  "name": "HELLO KITTY"
+ },
+ {
+  "brand": "HERBOSA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.545672",
+  "name": "HERBOSA"
+ },
+ {
+  "brand": "HERMES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.552159",
+  "name": "HERMES"
+ },
+ {
+  "brand": "HEXING",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.559566",
+  "name": "HEXING"
+ },
+ {
+  "brand": "HOFFNER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.569225",
+  "name": "HOFFNER"
+ },
+ {
+  "brand": "HOLLYWOOD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.575272",
+  "name": "HOLLYWOOD"
+ },
+ {
+  "brand": "HOMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.596427",
+  "name": "HOMME"
+ },
+ {
+  "brand": "HOT COUTURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.603298",
+  "name": "HOT COUTURE"
+ },
+ {
+  "brand": "HOT WATER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.609538",
+  "name": "HOT WATER"
+ },
+ {
+  "brand": "HUGO BOSS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.616164",
+  "name": "HUGO BOSS"
+ },
+ {
+  "brand": "HYPNOTIC POISON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.622240",
+  "name": "HYPNOTIC POISON"
+ },
+ {
+  "brand": "I LOEWE YOU TO NIGHT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.628473",
+  "name": "I LOEWE YOU TO NIGHT"
+ },
+ {
+  "brand": "ICE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.635563",
+  "name": "ICE"
+ },
+ {
+  "brand": "INCREDIBLE ME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.641650",
+  "name": "INCREDIBLE ME"
+ },
+ {
+  "brand": "INSOLENCE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.648309",
+  "name": "INSOLENCE"
+ },
+ {
+  "brand": "INTENSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.655029",
+  "name": "INTENSE"
+ },
+ {
+  "brand": "INTIMATELY YOURS FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.661812",
+  "name": "INTIMATELY YOURS FOR MEN"
+ },
+ {
+  "brand": "INTUITION LADYS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.667933",
+  "name": "INTUITION LADYS"
+ },
+ {
+  "brand": "IRRESISTABLE L'INTENSE FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.674176",
+  "name": "IRRESISTABLE L'INTENSE FOR LADY"
+ },
+ {
+  "brand": "IRRESISTIBLE FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.680248",
+  "name": "IRRESISTIBLE FLOWER"
+ },
+ {
+  "brand": "ISSEY MIYAKE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.687076",
+  "name": "ISSEY MIYAKE"
+ },
+ {
+  "brand": "ISSEY MIYAKE SPORT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.694630",
+  "name": "ISSEY MIYAKE SPORT"
+ },
+ {
+  "brand": "J/P",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.700454",
+  "name": "J/P"
+ },
+ {
+  "brand": "JACK BAUER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.707305",
+  "name": "JACK BAUER"
+ },
+ {
+  "brand": "JACK MORGAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.713504",
+  "name": "JACK MORGAN"
+ },
+ {
+  "brand": "JACK MORGAN PREMIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.719767",
+  "name": "JACK MORGAN PREMIUM"
+ },
+ {
+  "brand": "JACQUES BRITT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.726690",
+  "name": "JACQUES BRITT"
+ },
+ {
+  "brand": "JACQUES BRITT TUXEDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.732971",
+  "name": "JACQUES BRITT TUXEDO"
+ },
+ {
+  "brand": "JAGUAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.739686",
+  "name": "JAGUAR"
+ },
+ {
+  "brand": "JAGUAR GREEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.745528",
+  "name": "JAGUAR GREEN"
+ },
+ {
+  "brand": "J'AIME LES FLEURS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.751620",
+  "name": "J'AIME LES FLEURS"
+ },
+ {
+  "brand": "JEAN PAUL GAULTIER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.758644",
+  "name": "JEAN PAUL GAULTIER"
+ },
+ {
+  "brand": "JENNIFER LOPEZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.765057",
+  "name": "JENNIFER LOPEZ"
+ },
+ {
+  "brand": "JESSICA MCCLINTOCK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.771675",
+  "name": "JESSICA MCCLINTOCK"
+ },
+ {
+  "brand": "JILSANDER WOMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.778099",
+  "name": "JILSANDER WOMAN"
+ },
+ {
+  "brand": "JIMMY CHOO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.786342",
+  "name": "JIMMY CHOO"
+ },
+ {
+  "brand": "JINSHALI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.795910",
+  "name": "JINSHALI"
+ },
+ {
+  "brand": "JINSTAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.802590",
+  "name": "JINSTAR"
+ },
+ {
+  "brand": "JOHN RICHMOND",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.809058",
+  "name": "JOHN RICHMOND"
+ },
+ {
+  "brand": "JOHN RICHMOND FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.815486",
+  "name": "JOHN RICHMOND FOR WOMEN"
+ },
+ {
+  "brand": "JOOP",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.821815",
+  "name": "JOOP"
+ },
+ {
+  "brand": "JOVAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.827656",
+  "name": "JOVAN"
+ },
+ {
+  "brand": "JOY OF PINK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.833714",
+  "name": "JOY OF PINK"
+ },
+ {
+  "brand": "JUICY COUTURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.840278",
+  "name": "JUICY COUTURE"
+ },
+ {
+  "brand": "JULBO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.849149",
+  "name": "JULBO"
+ },
+ {
+  "brand": "JULES",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.855863",
+  "name": "JULES"
+ },
+ {
+  "brand": "JULIA-MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.862479",
+  "name": "JULIA-MIX"
+ },
+ {
+  "brand": "JUST CAVALLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.868733",
+  "name": "JUST CAVALLI"
+ },
+ {
+  "brand": "JUST ONE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.875249",
+  "name": "JUST ONE"
+ },
+ {
+  "brand": "KANZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.881736",
+  "name": "KANZ"
+ },
+ {
+  "brand": "KAPTAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.888061",
+  "name": "KAPTAN"
+ },
+ {
+  "brand": "KEDI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.896033",
+  "name": "KEDI"
+ },
+ {
+  "brand": "KENNETH COLE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.902167",
+  "name": "KENNETH COLE"
+ },
+ {
+  "brand": "KENNETH COLE BLACK SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.908624",
+  "name": "KENNETH COLE BLACK SET"
+ },
+ {
+  "brand": "KENZO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.919052",
+  "name": "KENZO"
+ },
+ {
+  "brand": "KIM KARDASIAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.927789",
+  "name": "KIM KARDASIAN"
+ },
+ {
+  "brand": "KIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.935321",
+  "name": "KIN"
+ },
+ {
+  "brand": "KNOWING",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.942886",
+  "name": "KNOWING"
+ },
+ {
+  "brand": "KOUROS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.950842",
+  "name": "KOUROS"
+ },
+ {
+  "brand": "KRUDER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.962863",
+  "name": "KRUDER"
+ },
+ {
+  "brand": "KSG",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.970067",
+  "name": "KSG"
+ },
+ {
+  "brand": "KT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.976548",
+  "name": "KT"
+ },
+ {
+  "brand": "K-Z",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.982600",
+  "name": "K-Z"
+ },
+ {
+  "brand": "LA PERLA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.989951",
+  "name": "LA PERLA"
+ },
+ {
+  "brand": "LACONA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:27.998496",
+  "name": "LACONA"
+ },
+ {
+  "brand": "LACOSTE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.005819",
+  "name": "LACOSTE"
+ },
+ {
+  "brand": "LADY GAGA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.012116",
+  "name": "LADY GAGA"
+ },
+ {
+  "brand": "LAFFITTE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.018698",
+  "name": "LAFFITTE"
+ },
+ {
+  "brand": "LALIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.024848",
+  "name": "LALIQUE"
+ },
+ {
+  "brand": "LANCASTER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.030829",
+  "name": "LANCASTER"
+ },
+ {
+  "brand": "LANCOME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.037600",
+  "name": "LANCOME"
+ },
+ {
+  "brand": "LANVIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.043729",
+  "name": "LANVIN"
+ },
+ {
+  "brand": "LAPERLA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.050310",
+  "name": "LAPERLA"
+ },
+ {
+  "brand": "LATTAFA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.057238",
+  "name": "LATTAFA"
+ },
+ {
+  "brand": "LE CHATEAU",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.063551",
+  "name": "LE CHATEAU"
+ },
+ {
+  "brand": "L'EAU AMBREE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.070696",
+  "name": "L'EAU AMBREE"
+ },
+ {
+  "brand": "LEMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.077033",
+  "name": "LEMAN"
+ },
+ {
+  "brand": "LEVANT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.083575",
+  "name": "LEVANT"
+ },
+ {
+  "brand": "L'HOMME LIBRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.089920",
+  "name": "L'HOMME LIBRE"
+ },
+ {
+  "brand": "LIGHT BLUE FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.099439",
+  "name": "LIGHT BLUE FOR MEN"
+ },
+ {
+  "brand": "LINCON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.107740",
+  "name": "LINCON"
+ },
+ {
+  "brand": "LOCO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.115695",
+  "name": "LOCO"
+ },
+ {
+  "brand": "LOLA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.123538",
+  "name": "LOLA"
+ },
+ {
+  "brand": "LOOK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.131792",
+  "name": "LOOK"
+ },
+ {
+  "brand": "LORD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.141005",
+  "name": "LORD"
+ },
+ {
+  "brand": "LOUIS S SODIO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.147481",
+  "name": "LOUIS S SODIO"
+ },
+ {
+  "brand": "LOVE OF PINK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.153568",
+  "name": "LOVE OF PINK"
+ },
+ {
+  "brand": "LOVELY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.159856",
+  "name": "LOVELY"
+ },
+ {
+  "brand": "M7 OUD FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.167137",
+  "name": "M7 OUD FOR MEN"
+ },
+ {
+  "brand": "MAGIC STICK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.173561",
+  "name": "MAGIC STICK"
+ },
+ {
+  "brand": "MALABAR GOLD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.180662",
+  "name": "MALABAR GOLD"
+ },
+ {
+  "brand": "MALAITE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.186765",
+  "name": "MALAITE"
+ },
+ {
+  "brand": "MANZONI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.192956",
+  "name": "MANZONI"
+ },
+ {
+  "brand": "MARC JACOBS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.200188",
+  "name": "MARC JACOBS"
+ },
+ {
+  "brand": "MARIAH CAREY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.207210",
+  "name": "MARIAH CAREY"
+ },
+ {
+  "brand": "MAXIMS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.213519",
+  "name": "MAXIMS"
+ },
+ {
+  "brand": "MAXO PARFUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.220424",
+  "name": "MAXO PARFUM"
+ },
+ {
+  "brand": "ME FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.226987",
+  "name": "ME FOR WOMEN"
+ },
+ {
+  "brand": "MEASUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.233318",
+  "name": "MEASUM"
+ },
+ {
+  "brand": "MELLER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.240081",
+  "name": "MELLER"
+ },
+ {
+  "brand": "MICKEY MOUSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.246557",
+  "name": "MICKEY MOUSE"
+ },
+ {
+  "brand": "MIDNIGHT FANTASY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.253214",
+  "name": "MIDNIGHT FANTASY"
+ },
+ {
+  "brand": "MILANO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.259961",
+  "name": "MILANO"
+ },
+ {
+  "brand": "MILLESIME GRN IRISH TWEED",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.266822",
+  "name": "MILLESIME GRN IRISH TWEED"
+ },
+ {
+  "brand": "MILLESIME IMPERIAL",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.273335",
+  "name": "MILLESIME IMPERIAL"
+ },
+ {
+  "brand": "MINNIE MOUSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.279473",
+  "name": "MINNIE MOUSE"
+ },
+ {
+  "brand": "MISS DIOR  CHERIE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.286502",
+  "name": "MISS DIOR  CHERIE"
+ },
+ {
+  "brand": "MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.292928",
+  "name": "MIX"
+ },
+ {
+  "brand": "MONT BLANC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.305077",
+  "name": "MONT BLANC"
+ },
+ {
+  "brand": "MONTALE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.311657",
+  "name": "MONTALE"
+ },
+ {
+  "brand": "MOSAIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.318193",
+  "name": "MOSAIQUE"
+ },
+ {
+  "brand": "MOSAIQUE MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.324568",
+  "name": "MOSAIQUE MIX"
+ },
+ {
+  "brand": "MOSAIQUE TUXEDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.330941",
+  "name": "MOSAIQUE TUXEDO"
+ },
+ {
+  "brand": "MOSCHINO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.337784",
+  "name": "MOSCHINO"
+ },
+ {
+  "brand": "MR.BETTER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.344795",
+  "name": "MR.BETTER"
+ },
+ {
+  "brand": "MUFID",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.351425",
+  "name": "MUFID"
+ },
+ {
+  "brand": "MUST POUR HOMME DE CARTIER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.357873",
+  "name": "MUST POUR HOMME DE CARTIER"
+ },
+ {
+  "brand": "MY GLOW",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.364343",
+  "name": "MY GLOW"
+ },
+ {
+  "brand": "MY INSOLENCE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.370829",
+  "name": "MY INSOLENCE"
+ },
+ {
+  "brand": "NANA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.377488",
+  "name": "NANA"
+ },
+ {
+  "brand": "NAUTICA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.384583",
+  "name": "NAUTICA"
+ },
+ {
+  "brand": "NEW ZONE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.390934",
+  "name": "NEW ZONE"
+ },
+ {
+  "brand": "NIKOS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.397754",
+  "name": "NIKOS"
+ },
+ {
+  "brand": "NINA L ELIXIR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.404407",
+  "name": "NINA L ELIXIR"
+ },
+ {
+  "brand": "NINA RICCI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.414454",
+  "name": "NINA RICCI"
+ },
+ {
+  "brand": "NINO CERRUTI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.420722",
+  "name": "NINO CERRUTI"
+ },
+ {
+  "brand": "NOGARA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.427089",
+  "name": "NOGARA"
+ },
+ {
+  "brand": "NOIR POUR HOMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.433035",
+  "name": "NOIR POUR HOMME"
+ },
+ {
+  "brand": "NONE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.439698",
+  "name": "NONE"
+ },
+ {
+  "brand": "NOTORIOUS FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.446133",
+  "name": "NOTORIOUS FOR LADY"
+ },
+ {
+  "brand": "NUAGE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.452578",
+  "name": "NUAGE"
+ },
+ {
+  "brand": "OAKLEY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.459540",
+  "name": "OAKLEY"
+ },
+ {
+  "brand": "ONDE EXTASE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.465885",
+  "name": "ONDE EXTASE"
+ },
+ {
+  "brand": "OPIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.474147",
+  "name": "OPIUM"
+ },
+ {
+  "brand": "ORANGE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.480477",
+  "name": "ORANGE"
+ },
+ {
+  "brand": "ORANGE FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.488175",
+  "name": "ORANGE FOR MEN"
+ },
+ {
+  "brand": "ORLANDI VITALI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.494658",
+  "name": "ORLANDI VITALI"
+ },
+ {
+  "brand": "OSTIN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.500859",
+  "name": "OSTIN"
+ },
+ {
+  "brand": "OUD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.507304",
+  "name": "OUD"
+ },
+ {
+  "brand": "PACO RABANNE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.516500",
+  "name": "PACO RABANNE"
+ },
+ {
+  "brand": "PALAMO PICCASSO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.523011",
+  "name": "PALAMO PICCASSO"
+ },
+ {
+  "brand": "PANAMA JACK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.529621",
+  "name": "PANAMA JACK"
+ },
+ {
+  "brand": "PANCALDI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.536290",
+  "name": "PANCALDI"
+ },
+ {
+  "brand": "PANCALDI LIMITED EDITION",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.542670",
+  "name": "PANCALDI LIMITED EDITION"
+ },
+ {
+  "brand": "PAOLO DEL DOSCHE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.549183",
+  "name": "PAOLO DEL DOSCHE"
+ },
+ {
+  "brand": "PARIS HILTON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.555288",
+  "name": "PARIS HILTON"
+ },
+ {
+  "brand": "PARIS HILTON SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.561575",
+  "name": "PARIS HILTON SET"
+ },
+ {
+  "brand": "PARISIENNE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.568485",
+  "name": "PARISIENNE"
+ },
+ {
+  "brand": "PARISIENNE A L'EXTREME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.576003",
+  "name": "PARISIENNE A L'EXTREME"
+ },
+ {
+  "brand": "PARTINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.582693",
+  "name": "PARTINI"
+ },
+ {
+  "brand": "PAUL SMITH FOR MEN SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.590779",
+  "name": "PAUL SMITH FOR MEN SET"
+ },
+ {
+  "brand": "PAWO CHOICE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.597062",
+  "name": "PAWO CHOICE"
+ },
+ {
+  "brand": "PEDRA BERMARD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.603814",
+  "name": "PEDRA BERMARD"
+ },
+ {
+  "brand": "PERLES DE LALIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.610603",
+  "name": "PERLES DE LALIQUE"
+ },
+ {
+  "brand": "PERRY ELLIS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.618331",
+  "name": "PERRY ELLIS"
+ },
+ {
+  "brand": "PERTEGAZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.635137",
+  "name": "PERTEGAZ"
+ },
+ {
+  "brand": "PIECE OF EXTRA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.641672",
+  "name": "PIECE OF EXTRA"
+ },
+ {
+  "brand": "PIERRE DONNA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.648744",
+  "name": "PIERRE DONNA"
+ },
+ {
+  "brand": "PLATINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.655433",
+  "name": "PLATINI"
+ },
+ {
+  "brand": "PLEASURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.662712",
+  "name": "PLEASURE"
+ },
+ {
+  "brand": "PODIA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.669097",
+  "name": "PODIA"
+ },
+ {
+  "brand": "POISON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.675845",
+  "name": "POISON"
+ },
+ {
+  "brand": "POLICE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.683123",
+  "name": "POLICE"
+ },
+ {
+  "brand": "POLICE SLG",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.690292",
+  "name": "POLICE SLG"
+ },
+ {
+  "brand": "POP",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.697863",
+  "name": "POP"
+ },
+ {
+  "brand": "POUR FEMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.706165",
+  "name": "POUR FEMME"
+ },
+ {
+  "brand": "POUR HOMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.714051",
+  "name": "POUR HOMME"
+ },
+ {
+  "brand": "PRADA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.726411",
+  "name": "PRADA"
+ },
+ {
+  "brand": "PRINCE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.733452",
+  "name": "PRINCE"
+ },
+ {
+  "brand": "PRINCESS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.740205",
+  "name": "PRINCESS"
+ },
+ {
+  "brand": "PULLMOD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.747005",
+  "name": "PULLMOD"
+ },
+ {
+  "brand": "PUNTO BLANCO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.753236",
+  "name": "PUNTO BLANCO"
+ },
+ {
+  "brand": "PURE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.762440",
+  "name": "PURE"
+ },
+ {
+  "brand": "PURE SET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.768959",
+  "name": "PURE SET"
+ },
+ {
+  "brand": "QUEEN LATIFAH",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.780669",
+  "name": "QUEEN LATIFAH"
+ },
+ {
+  "brand": "QUIZAS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.795595",
+  "name": "QUIZAS"
+ },
+ {
+  "brand": "RAFAELLO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.814341",
+  "name": "RAFAELLO"
+ },
+ {
+  "brand": "RALPH LAUREN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.823628",
+  "name": "RALPH LAUREN"
+ },
+ {
+  "brand": "RAYBAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.830696",
+  "name": "RAYBAN"
+ },
+ {
+  "brand": "REBECCA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.837592",
+  "name": "REBECCA"
+ },
+ {
+  "brand": "RED",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.844860",
+  "name": "RED"
+ },
+ {
+  "brand": "RED FOX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.853314",
+  "name": "RED FOX"
+ },
+ {
+  "brand": "RED SHOE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.860320",
+  "name": "RED SHOE"
+ },
+ {
+  "brand": "REEM ACRA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.866763",
+  "name": "REEM ACRA"
+ },
+ {
+  "brand": "RELIANCE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.873963",
+  "name": "RELIANCE"
+ },
+ {
+  "brand": "R-ETURNER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.882078",
+  "name": "R-ETURNER"
+ },
+ {
+  "brand": "REVOLUTIONARY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.889486",
+  "name": "REVOLUTIONARY"
+ },
+ {
+  "brand": "REVUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.896425",
+  "name": "REVUE"
+ },
+ {
+  "brand": "REYMO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.903035",
+  "name": "REYMO"
+ },
+ {
+  "brand": "REYMO SPORTLINE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.909453",
+  "name": "REYMO SPORTLINE"
+ },
+ {
+  "brand": "RIHANNA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.918003",
+  "name": "RIHANNA"
+ },
+ {
+  "brand": "RM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.926434",
+  "name": "RM"
+ },
+ {
+  "brand": "ROBERTO CAVALLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.933159",
+  "name": "ROBERTO CAVALLI"
+ },
+ {
+  "brand": "ROBERTO TORRENI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.940693",
+  "name": "ROBERTO TORRENI"
+ },
+ {
+  "brand": "RODOLF HOLFMAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.949435",
+  "name": "RODOLF HOLFMAN"
+ },
+ {
+  "brand": "ROSARIO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.956002",
+  "name": "ROSARIO"
+ },
+ {
+  "brand": "ROSE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.964797",
+  "name": "ROSE"
+ },
+ {
+  "brand": "ROSE BOURBON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.979802",
+  "name": "ROSE BOURBON"
+ },
+ {
+  "brand": "ROSSINI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:28.996282",
+  "name": "ROSSINI"
+ },
+ {
+  "brand": "ROXY MILO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.003528",
+  "name": "ROXY MILO"
+ },
+ {
+  "brand": "RUGATCHIAND WEAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.011437",
+  "name": "RUGATCHIAND WEAR"
+ },
+ {
+  "brand": "RUSH",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.019623",
+  "name": "RUSH"
+ },
+ {
+  "brand": "RYS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.027554",
+  "name": "RYS"
+ },
+ {
+  "brand": "S&T",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.034924",
+  "name": "S&T"
+ },
+ {
+  "brand": "S.T. DUPONT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.043022",
+  "name": "S.T. DUPONT"
+ },
+ {
+  "brand": "SAHAR NOIR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.049776",
+  "name": "SAHAR NOIR"
+ },
+ {
+  "brand": "SALVATORE FERRAGAMO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.056650",
+  "name": "SALVATORE FERRAGAMO"
+ },
+ {
+  "brand": "SAMS BLACK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.063334",
+  "name": "SAMS BLACK"
+ },
+ {
+  "brand": "SARAH JESSICA PARKER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.071248",
+  "name": "SARAH JESSICA PARKER"
+ },
+ {
+  "brand": "SCARF",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.078451",
+  "name": "SCARF"
+ },
+ {
+  "brand": "SCARLETT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.085531",
+  "name": "SCARLETT"
+ },
+ {
+  "brand": "SCENT COOL GLOSS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.092136",
+  "name": "SCENT COOL GLOSS"
+ },
+ {
+  "brand": "SCRUNCH",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.099446",
+  "name": "SCRUNCH"
+ },
+ {
+  "brand": "SECRET OBSESSION",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.106318",
+  "name": "SECRET OBSESSION"
+ },
+ {
+  "brand": "SEDEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.113340",
+  "name": "SEDEN"
+ },
+ {
+  "brand": "SEDUCTIVE FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.120967",
+  "name": "SEDUCTIVE FLOWER"
+ },
+ {
+  "brand": "SEIKO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.129724",
+  "name": "SEIKO"
+ },
+ {
+  "brand": "SENSOUS NOIR FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.136924",
+  "name": "SENSOUS NOIR FOR LADY"
+ },
+ {
+  "brand": "SENSUAL FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.143871",
+  "name": "SENSUAL FLOWER"
+ },
+ {
+  "brand": "SENSUOUS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.150701",
+  "name": "SENSUOUS"
+ },
+ {
+  "brand": "SERGIO FERNO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.157978",
+  "name": "SERGIO FERNO"
+ },
+ {
+  "brand": "SERGIO FERNO TUXIDO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.165118",
+  "name": "SERGIO FERNO TUXIDO"
+ },
+ {
+  "brand": "SERGIO MARIANO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.171539",
+  "name": "SERGIO MARIANO"
+ },
+ {
+  "brand": "SHAFAA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.179007",
+  "name": "SHAFAA"
+ },
+ {
+  "brand": "SHAFAA PREMIUM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.185168",
+  "name": "SHAFAA PREMIUM"
+ },
+ {
+  "brand": "SIGNATURE STORY FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.191629",
+  "name": "SIGNATURE STORY FOR WOMEN"
+ },
+ {
+  "brand": "SILKY WAY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.198249",
+  "name": "SILKY WAY"
+ },
+ {
+  "brand": "SILKY WAY BOX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.204574",
+  "name": "SILKY WAY BOX"
+ },
+ {
+  "brand": "SOLO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.210992",
+  "name": "SOLO"
+ },
+ {
+  "brand": "SONNY BONO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.218315",
+  "name": "SONNY BONO"
+ },
+ {
+  "brand": "SORBINO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.225551",
+  "name": "SORBINO"
+ },
+ {
+  "brand": "SPANNING",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.234113",
+  "name": "SPANNING"
+ },
+ {
+  "brand": "SPIDER-MAN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.240627",
+  "name": "SPIDER-MAN"
+ },
+ {
+  "brand": "ST. DUPONT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.246957",
+  "name": "ST. DUPONT"
+ },
+ {
+  "brand": "STIFANO CASTILLO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.252921",
+  "name": "STIFANO CASTILLO"
+ },
+ {
+  "brand": "STIFANO CASTILLO LUXURY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.260630",
+  "name": "STIFANO CASTILLO LUXURY"
+ },
+ {
+  "brand": "STOEE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.267190",
+  "name": "STOEE"
+ },
+ {
+  "brand": "STORM",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.273517",
+  "name": "STORM"
+ },
+ {
+  "brand": "STRICTLY PRIVATE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.287624",
+  "name": "STRICTLY PRIVATE"
+ },
+ {
+  "brand": "SUPERWOW",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.293803",
+  "name": "SUPERWOW"
+ },
+ {
+  "brand": "SWISS ARABIA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.300186",
+  "name": "SWISS ARABIA"
+ },
+ {
+  "brand": "SWISS TITANIC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.306478",
+  "name": "SWISS TITANIC"
+ },
+ {
+  "brand": "T-BASE-99",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.312972",
+  "name": "T-BASE-99"
+ },
+ {
+  "brand": "TED LAPIDUS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.320648",
+  "name": "TED LAPIDUS"
+ },
+ {
+  "brand": "TEEB",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.326808",
+  "name": "TEEB"
+ },
+ {
+  "brand": "TEIF",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.334660",
+  "name": "TEIF"
+ },
+ {
+  "brand": "TEN-BEATS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.340667",
+  "name": "TEN-BEATS"
+ },
+ {
+  "brand": "TENDER FLOWER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.347841",
+  "name": "TENDER FLOWER"
+ },
+ {
+  "brand": "THE DIAMOND",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.355466",
+  "name": "THE DIAMOND"
+ },
+ {
+  "brand": "THE ESSENCE FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.365619",
+  "name": "THE ESSENCE FOR MEN"
+ },
+ {
+  "brand": "THE GAME FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.372225",
+  "name": "THE GAME FOR MEN"
+ },
+ {
+  "brand": "THE LITTLE MUSTARD SEED",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.379832",
+  "name": "THE LITTLE MUSTARD SEED"
+ },
+ {
+  "brand": "THE SAPPHIRE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.387157",
+  "name": "THE SAPPHIRE"
+ },
+ {
+  "brand": "THE TOPAZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.393656",
+  "name": "THE TOPAZ"
+ },
+ {
+  "brand": "THIERRY MUGLER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.401053",
+  "name": "THIERRY MUGLER"
+ },
+ {
+  "brand": "THOMAS BERGE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.408323",
+  "name": "THOMAS BERGE"
+ },
+ {
+  "brand": "TIANJIA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.415023",
+  "name": "TIANJIA"
+ },
+ {
+  "brand": "TIFFANY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.421102",
+  "name": "TIFFANY"
+ },
+ {
+  "brand": "TM69",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.427274",
+  "name": "TM69"
+ },
+ {
+  "brand": "TODS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.433649",
+  "name": "TODS"
+ },
+ {
+  "brand": "TOGA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.442551",
+  "name": "TOGA"
+ },
+ {
+  "brand": "TOGA BLUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.449071",
+  "name": "TOGA BLUE"
+ },
+ {
+  "brand": "TOM FORD",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.455210",
+  "name": "TOM FORD"
+ },
+ {
+  "brand": "TOMAS & FRIENDS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.462173",
+  "name": "TOMAS & FRIENDS"
+ },
+ {
+  "brand": "TOMFORD FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.468779",
+  "name": "TOMFORD FOR MEN"
+ },
+ {
+  "brand": "TOMMY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.475632",
+  "name": "TOMMY"
+ },
+ {
+  "brand": "TOMMY HILFIGER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.482531",
+  "name": "TOMMY HILFIGER"
+ },
+ {
+  "brand": "TONIO TULLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.489050",
+  "name": "TONIO TULLI"
+ },
+ {
+  "brand": "TORRAS",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.495696",
+  "name": "TORRAS"
+ },
+ {
+  "brand": "TOUCH OF SPRING",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.502608",
+  "name": "TOUCH OF SPRING"
+ },
+ {
+  "brand": "TOUJOURS GLAMOUR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.509546",
+  "name": "TOUJOURS GLAMOUR"
+ },
+ {
+  "brand": "TRG MIX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.516577",
+  "name": "TRG MIX"
+ },
+ {
+  "brand": "TRUSSARDI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.524282",
+  "name": "TRUSSARDI"
+ },
+ {
+  "brand": "TRUTH FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.530677",
+  "name": "TRUTH FOR LADY"
+ },
+ {
+  "brand": "TRUTH FOR MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.539216",
+  "name": "TRUTH FOR MEN"
+ },
+ {
+  "brand": "TWO FEAT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.545575",
+  "name": "TWO FEAT"
+ },
+ {
+  "brand": "TYPHOON",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.552058",
+  "name": "TYPHOON"
+ },
+ {
+  "brand": "ULTRAVILENT MEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.560707",
+  "name": "ULTRAVILENT MEN"
+ },
+ {
+  "brand": "ULTRAVIOLET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.567595",
+  "name": "ULTRAVIOLET"
+ },
+ {
+  "brand": "ULTRAVIOLET FOR WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.574006",
+  "name": "ULTRAVIOLET FOR WOMEN"
+ },
+ {
+  "brand": "UMBERTO VALLATI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.581883",
+  "name": "UMBERTO VALLATI"
+ },
+ {
+  "brand": "VALENTINA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.591006",
+  "name": "VALENTINA"
+ },
+ {
+  "brand": "VALENTINO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.598817",
+  "name": "VALENTINO"
+ },
+ {
+  "brand": "VANHUESEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.605537",
+  "name": "VANHUESEN"
+ },
+ {
+  "brand": "VANITAS FOR LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.612684",
+  "name": "VANITAS FOR LADY"
+ },
+ {
+  "brand": "VELVET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.619459",
+  "name": "VELVET"
+ },
+ {
+  "brand": "VERO MODA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.626952",
+  "name": "VERO MODA"
+ },
+ {
+  "brand": "VERSACE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.634460",
+  "name": "VERSACE"
+ },
+ {
+  "brand": "VETIVER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.643005",
+  "name": "VETIVER"
+ },
+ {
+  "brand": "VIAVENETO",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.649761",
+  "name": "VIAVENETO"
+ },
+ {
+  "brand": "VICTORIA SECRET",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.656492",
+  "name": "VICTORIA SECRET"
+ },
+ {
+  "brand": "VIEW STAR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.664188",
+  "name": "VIEW STAR"
+ },
+ {
+  "brand": "VISIT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.678181",
+  "name": "VISIT"
+ },
+ {
+  "brand": "VITTORIO VENTURA",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.685831",
+  "name": "VITTORIO VENTURA"
+ },
+ {
+  "brand": "VLC",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.692647",
+  "name": "VLC"
+ },
+ {
+  "brand": "VOGUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.699421",
+  "name": "VOGUE"
+ },
+ {
+  "brand": "WATER FISH",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.706227",
+  "name": "WATER FISH"
+ },
+ {
+  "brand": "WELLALUX",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.713913",
+  "name": "WELLALUX"
+ },
+ {
+  "brand": "WHITE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.721997",
+  "name": "WHITE"
+ },
+ {
+  "brand": "WHITE BERRY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.729460",
+  "name": "WHITE BERRY"
+ },
+ {
+  "brand": "WHITE PACTHOULI WOMEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.736022",
+  "name": "WHITE PACTHOULI WOMEN"
+ },
+ {
+  "brand": "WIN SKY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.753359",
+  "name": "WIN SKY"
+ },
+ {
+  "brand": "WISH LADY",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.760708",
+  "name": "WISH LADY"
+ },
+ {
+  "brand": "WOOD MYSTIQUE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.767541",
+  "name": "WOOD MYSTIQUE"
+ },
+ {
+  "brand": "WORKERS VILLAGE",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.773625",
+  "name": "WORKERS VILLAGE"
+ },
+ {
+  "brand": "WOZ",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.780457",
+  "name": "WOZ"
+ },
+ {
+  "brand": "YARDI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.788654",
+  "name": "YARDI"
+ },
+ {
+  "brand": "YIN POUR FEMME",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.796015",
+  "name": "YIN POUR FEMME"
+ },
+ {
+  "brand": "YONG PING",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.802599",
+  "name": "YONG PING"
+ },
+ {
+  "brand": "YU & TU KARDELEN",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.809064",
+  "name": "YU & TU KARDELEN"
+ },
+ {
+  "brand": "YURMAN BLACK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.815821",
+  "name": "YURMAN BLACK"
+ },
+ {
+  "brand": "YVES SAINT LAURENT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.822677",
+  "name": "YVES SAINT LAURENT"
+ },
+ {
+  "brand": "ZANELLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.829252",
+  "name": "ZANELLI"
+ },
+ {
+  "brand": "ZILLI",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.835838",
+  "name": "ZILLI"
+ },
+ {
+  "brand": "ZKOT",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.841852",
+  "name": "ZKOT"
+ },
+ {
+  "brand": "ZOCK",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.850148",
+  "name": "ZOCK"
+ },
+ {
+  "brand": "ZOGAYER",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2025-10-27 13:24:29.856256",
+  "name": "ZOGAYER"
+ }
+]

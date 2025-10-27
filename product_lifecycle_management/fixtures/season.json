@@ -1,1234 +1,506 @@
 [
  {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.552071",
-  "name": "1-2013-5",
-  "season": "1-2013-5"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.581986",
-  "name": "14",
-  "season": "14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.590788",
-  "name": "14J214-PO86-14-11",
-  "season": "14J214-PO86-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.597715",
-  "name": "15",
-  "season": "15"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.604109",
-  "name": "16",
-  "season": "16"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.610346",
-  "name": "17",
-  "season": "17"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.617181",
-  "name": "18",
-  "season": "18"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.624988",
-  "name": "2",
-  "season": "2"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.631181",
-  "name": "2010",
-  "season": "2010"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.637664",
-  "name": "2011",
-  "season": "2011"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.643501",
-  "name": "2012",
-  "season": "2012"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.651014",
-  "name": "2012-10",
-  "season": "2012-10"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.658092",
-  "name": "2013",
-  "season": "2013"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.665544",
-  "name": "2013-1",
-  "season": "2013-1"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.671958",
-  "name": "2013-2",
-  "season": "2013-2"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.678418",
-  "name": "2013-2045",
-  "season": "2013-2045"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.686227",
-  "name": "2013-3",
-  "season": "2013-3"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.693096",
-  "name": "2013-4",
-  "season": "2013-4"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.699175",
-  "name": "2013-5",
-  "season": "2013-5"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.705441",
-  "name": "2013-6",
-  "season": "2013-6"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.712116",
-  "name": "2013-7",
-  "season": "2013-7"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.719481",
-  "name": "2013-8",
-  "season": "2013-8"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.727197",
-  "name": "2014",
-  "season": "2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.733353",
-  "name": "2014-7",
-  "season": "2014-7"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.739423",
-  "name": "2015",
-  "season": "2015"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.746945",
-  "name": "2016",
-  "season": "2016"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.752883",
-  "name": "2017",
-  "season": "2017"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.759191",
-  "name": "2018",
-  "season": "2018"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.767767",
-  "name": "2019",
-  "season": "2019"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.775711",
-  "name": "2020",
-  "season": "2020"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.782371",
-  "name": "2023",
-  "season": "2023"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.788997",
-  "name": "49-NF-14-01",
-  "season": "49-NF-14-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.797548",
-  "name": "ALDERI-01-PO100-14-11",
-  "season": "ALDERI-01-PO100-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.803884",
-  "name": "AP201406-PO72-14-09",
-  "season": "AP201406-PO72-14-09"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.811615",
-  "name": "AUTUMN & WINTER",
-  "season": "AUTUMN & WINTER"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.818675",
-  "name": "AW 16",
-  "season": "AW 16"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.824801",
-  "name": "AW15",
-  "season": "AW15"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.830821",
-  "name": "AW16",
-  "season": "AW16"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.837633",
-  "name": "AW17",
-  "season": "AW17"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.844255",
-  "name": "AW18",
-  "season": "AW18"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.850564",
-  "name": "AW19",
-  "season": "AW19"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.856828",
-  "name": "AW20",
-  "season": "AW20"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.864948",
-  "name": "AW2015",
-  "season": "AW2015"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.873649",
-  "name": "AW2024",
-  "season": "AW2024"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.879656",
-  "name": "AW21",
-  "season": "AW21"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.886035",
-  "name": "AW22",
-  "season": "AW22"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.892192",
-  "name": "AW23",
-  "season": "AW23"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.900089",
-  "name": "AW24",
-  "season": "AW24"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.906935",
-  "name": "AW25",
-  "season": "AW25"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.913280",
-  "name": "BARA201411-PO80-14-11",
-  "season": "BARA201411-PO80-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.920154",
-  "name": "BHW201411-PO84-14-11",
-  "season": "BHW201411-PO84-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.927877",
-  "name": "CE201406-PO57-14-08",
-  "season": "CE201406-PO57-14-08"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.936024",
-  "name": "EYE-2-2014-09",
-  "season": "EYE-2-2014-09"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.942092",
-  "name": "FY-PO90-14-11",
-  "season": "FY-PO90-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.948456",
-  "name": "IN-FC/G22/005/2014-PO64-14-11",
-  "season": "IN-FC/G22/005/2014-PO64-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.954760",
-  "name": "JEBAL GENEVE",
-  "season": "JEBAL GENEVE"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.963319",
-  "name": "JOHN201401-PO13-14-01",
-  "season": "JOHN201401-PO13-14-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.971001",
-  "name": "LYN1412-PO106-14-11",
-  "season": "LYN1412-PO106-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.978312",
-  "name": "N/A",
-  "season": "N/A"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.984707",
-  "name": "NA",
-  "season": "NA"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.990709",
-  "name": "NOAH-2-PO.65-14-11",
-  "season": "NOAH-2-PO.65-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:14.998784",
-  "name": "NONE",
-  "season": "NONE"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.007528",
-  "name": "PERENNIAL",
-  "season": "PERENNIAL"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.013685",
-  "name": "PO.001.DT.30.03.14",
-  "season": "PO.001.DT.30.03.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.020648",
-  "name": "PO.002.DTD.26.01.14",
-  "season": "PO.002.DTD.26.01.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.032251",
-  "name": "PO.003.DT.05.02.14",
-  "season": "PO.003.DT.05.02.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.038137",
-  "name": "PO.004.DT.16.02.14",
-  "season": "PO.004.DT.16.02.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.045123",
-  "name": "PO.009.DT.25.03.13",
-  "season": "PO.009.DT.25.03.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.051103",
-  "name": "PO.017 DT.26.03.13",
-  "season": "PO.017 DT.26.03.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.059405",
-  "name": "PO.034 DT.17.04.13",
-  "season": "PO.034 DT.17.04.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.065373",
-  "name": "PO.038 DT.28.04.13",
-  "season": "PO.038 DT.28.04.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.071877",
-  "name": "PO.045 DT.06.05.13",
-  "season": "PO.045 DT.06.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.079273",
-  "name": "PO.056 DT.28.05.13",
-  "season": "PO.056 DT.28.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.085143",
-  "name": "PO.062.DT.02.07.13-A",
-  "season": "PO.062.DT.02.07.13-A"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.093417",
-  "name": "PO.074 DT.18.07.13",
-  "season": "PO.074 DT.18.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.099667",
-  "name": "PO.075 DT.13.05.13",
-  "season": "PO.075 DT.13.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.105693",
-  "name": "PO.076 DT.13.05.13",
-  "season": "PO.076 DT.13.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.111852",
-  "name": "PO.077 DT28.05.13",
-  "season": "PO.077 DT28.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.118768",
-  "name": "PO.08.DT.09.05.2014",
-  "season": "PO.08.DT.09.05.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.125789",
-  "name": "PO.080 DT.06.03.13",
-  "season": "PO.080 DT.06.03.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.131702",
-  "name": "PO.082 DT.01.07.13",
-  "season": "PO.082 DT.01.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.138222",
-  "name": "PO.084.DT.02.07.13",
-  "season": "PO.084.DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.144755",
-  "name": "PO.087.DT.02.07.13",
-  "season": "PO.087.DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.152894",
-  "name": "PO.088.DT.02.07.13",
-  "season": "PO.088.DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.159120",
-  "name": "PO.092 DT.02.07.13",
-  "season": "PO.092 DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.165671",
-  "name": "PO.093DT.02.07.13",
-  "season": "PO.093DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.172254",
-  "name": "PO.094.DT.02.07.13",
-  "season": "PO.094.DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.182937",
-  "name": "PO.096.DT.02.07.13",
-  "season": "PO.096.DT.02.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.189244",
-  "name": "PO.101.DT.03.07.13",
-  "season": "PO.101.DT.03.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.195659",
-  "name": "PO.101.DT.13.07.13",
-  "season": "PO.101.DT.13.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.201655",
-  "name": "PO.104 DT.15.07.13",
-  "season": "PO.104 DT.15.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.207773",
-  "name": "PO.107.DT.28.07.13",
-  "season": "PO.107.DT.28.07.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.215627",
-  "name": "PO.112.DT.22.12.2013",
-  "season": "PO.112.DT.22.12.2013"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.222637",
-  "name": "PO.113.DT.25.11.13",
-  "season": "PO.113.DT.25.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.229737",
-  "name": "PO.115.DT.06.10.13",
-  "season": "PO.115.DT.06.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.236660",
-  "name": "PO.116.DT.09.10.13",
-  "season": "PO.116.DT.09.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.244011",
-  "name": "PO.118.DT.09.10.13",
-  "season": "PO.118.DT.09.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.250955",
-  "name": "PO.119.DT.13.10.13",
-  "season": "PO.119.DT.13.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.257833",
-  "name": "PO.12.AW.14",
-  "season": "PO.12.AW.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.268148",
-  "name": "PO.121.DT.13.10.13",
-  "season": "PO.121.DT.13.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.277053",
-  "name": "PO.122.DT.26.10.13",
-  "season": "PO.122.DT.26.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.285908",
-  "name": "PO.124.DT.9.17.13",
-  "season": "PO.124.DT.9.17.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.293103",
-  "name": "PO.126.DT.09.20.13",
-  "season": "PO.126.DT.09.20.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.300234",
-  "name": "PO.127.DT.9.20.13",
-  "season": "PO.127.DT.9.20.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.309306",
-  "name": "PO.128.DT.09.24.2013",
-  "season": "PO.128.DT.09.24.2013"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.393821",
-  "name": "PO.129.DT.10.10.13",
-  "season": "PO.129.DT.10.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.404974",
-  "name": "PO.130.DT.13.11.13",
-  "season": "PO.130.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.417269",
-  "name": "PO.131.DT.13.11.13",
-  "season": "PO.131.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.428860",
-  "name": "PO.135.DT.13.11.13",
-  "season": "PO.135.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.444105",
-  "name": "PO.140.DT.14.11.13",
-  "season": "PO.140.DT.14.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.452707",
-  "name": "PO.141.DT.14.11.13",
-  "season": "PO.141.DT.14.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.465761",
-  "name": "PO.144.DT.14.11.13",
-  "season": "PO.144.DT.14.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.471600",
-  "name": "PO.146.14.11.13",
-  "season": "PO.146.14.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.477653",
-  "name": "PO.153 DTD.19.12.13",
-  "season": "PO.153 DTD.19.12.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.484927",
-  "name": "PO.153.DT.08.12.13",
-  "season": "PO.153.DT.08.12.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.493093",
-  "name": "PO.17.DT.01.07.2014",
-  "season": "PO.17.DT.01.07.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.500657",
-  "name": "PO.18.DT.19.05.2014",
-  "season": "PO.18.DT.19.05.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.507516",
-  "name": "PO.189.DT.10.10.13",
-  "season": "PO.189.DT.10.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.514236",
-  "name": "PO.21.DT.30.04.14",
-  "season": "PO.21.DT.30.04.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.520620",
-  "name": "PO.23.DT.30.04.14",
-  "season": "PO.23.DT.30.04.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.527522",
-  "name": "PO.25.AW.14",
-  "season": "PO.25.AW.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.534956",
-  "name": "PO.27. SS14",
-  "season": "PO.27. SS14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.541055",
-  "name": "PO.30.DT.07.05.14",
-  "season": "PO.30.DT.07.05.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.547772",
-  "name": "PO.31.DT.06.05.2014",
-  "season": "PO.31.DT.06.05.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.555540",
-  "name": "PO.34.DT.07.05.14",
-  "season": "PO.34.DT.07.05.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.561635",
-  "name": "PO.36.DT.07.05.14",
-  "season": "PO.36.DT.07.05.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.569380",
-  "name": "PO.37.DT.07.05.14",
-  "season": "PO.37.DT.07.05.14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.575703",
-  "name": "PO.38.19.05.2014",
-  "season": "PO.38.19.05.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.582387",
-  "name": "PO.44.DT.13.08.13",
-  "season": "PO.44.DT.13.08.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.591534",
-  "name": "PO.50.DT.10.05.2014",
-  "season": "PO.50.DT.10.05.2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.598024",
-  "name": "PO.54 DT.27.05.13",
-  "season": "PO.54 DT.27.05.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.606116",
-  "name": "PO130.DT.13.11.13",
-  "season": "PO130.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.613755",
-  "name": "PO132.DT.13.11.13",
-  "season": "PO132.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.620096",
-  "name": "PO133.DT.13.11.13",
-  "season": "PO133.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.625872",
-  "name": "PO142.DT.13.11.109",
-  "season": "PO142.DT.13.11.109"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.632716",
-  "name": "PO142.DT.13.11.111",
-  "season": "PO142.DT.13.11.111"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.638762",
-  "name": "PO142.DT.13.11.13",
-  "season": "PO142.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.644810",
-  "name": "PO142.DT.13.11.39",
-  "season": "PO142.DT.13.11.39"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.651132",
-  "name": "PO147.DT.13.11.13",
-  "season": "PO147.DT.13.11.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.657705",
-  "name": "RW14073-PO 45-14-6",
-  "season": "RW14073-PO 45-14-6"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.663816",
-  "name": "S/S 2012-11",
-  "season": "S/S 2012-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.673952",
-  "name": "SL01-BRD1501-PO109-15-01",
-  "season": "SL01-BRD1501-PO109-15-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.679945",
-  "name": "SLIM",
-  "season": "SLIM"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.686570",
-  "name": "SPRING SUMMER 2012",
-  "season": "SPRING SUMMER 2012"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.694596",
-  "name": "SPRING SUMMER 2013",
-  "season": "SPRING SUMMER 2013"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.700661",
-  "name": "SS15",
-  "season": "SS15"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.707133",
-  "name": "SS16",
-  "season": "SS16"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.713487",
-  "name": "SS17",
-  "season": "SS17"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.719756",
-  "name": "SS18",
-  "season": "SS18"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.726296",
-  "name": "SS19",
-  "season": "SS19"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.732724",
-  "name": "SS20",
-  "season": "SS20"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.738993",
-  "name": "SS-20",
-  "season": "SS-20"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.745669",
-  "name": "SS21",
-  "season": "SS21"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.751922",
-  "name": "SS22",
-  "season": "SS22"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.767924",
-  "name": "SS23",
-  "season": "SS23"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.775206",
-  "name": "SS24",
-  "season": "SS24"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.781671",
-  "name": "SS25",
-  "season": "SS25"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.788157",
-  "name": "SS26",
-  "season": "SS26"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.794910",
-  "name": "SS27",
-  "season": "SS27"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.803129",
-  "name": "SUMMER",
-  "season": "SUMMER"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.810856",
-  "name": "SUMMER 2014",
-  "season": "SUMMER 2014"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.818632",
-  "name": "SY-SEP-14",
-  "season": "SY-SEP-14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.825164",
-  "name": "TIE-RLD-19-11- PO 108-14-11",
-  "season": "TIE-RLD-19-11- PO 108-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.831632",
-  "name": "TURKEY-1-15-PO58-7-14",
-  "season": "TURKEY-1-15-PO58-7-14"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.839796",
-  "name": "WALLET201406-PO.55-14-06",
-  "season": "WALLET201406-PO.55-14-06"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.846744",
-  "name": "WINTER",
-  "season": "WINTER"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.853471",
-  "name": "WOZ.23.10.13",
-  "season": "WOZ.23.10.13"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.860276",
-  "name": "YDF1406-PO73-14-08",
-  "season": "YDF1406-PO73-14-08"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.867293",
-  "name": "YDF1407-2-PO71-14-08",
-  "season": "YDF1407-2-PO71-14-08"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.874502",
-  "name": "YDF1409-PO76-14-09",
-  "season": "YDF1409-PO76-14-09"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.881468",
-  "name": "YDF1411-PO81-14-11",
-  "season": "YDF1411-PO81-14-11"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.888498",
-  "name": "YDF1501-PO117-15-01",
-  "season": "YDF1501-PO117-15-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.895467",
-  "name": "YDF1503-PO119-15-01",
-  "season": "YDF1503-PO119-15-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.903272",
-  "name": "YDF1506-PO122-15-01",
-  "season": "YDF1506-PO122-15-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.909968",
-  "name": "YDF1507-PO123-15-01",
-  "season": "YDF1507-PO123-15-01"
- },
- {
-  "docstatus": 0,
-  "doctype": "Season",
-  "modified": "2025-10-23 11:50:15.916800",
-  "name": "YDF1508-PO124-15-01",
-  "season": "YDF1508-PO124-15-01"
+  "description": "sdf",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-10-27",
+  "launch_date_till": "2025-10-27",
+  "launch_period": "-",
+  "modified": "2025-10-27 12:15:13.569710",
+  "name": "SDF",
+  "season_code": "SDF",
+  "season_name": "sdfsdfsd",
+  "season_type": "Core Fashion Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-10-27",
+  "selling_date_till": "2025-10-27",
+  "selling_period": "-",
+  "specific_year": 0
+ },
+ {
+  "description": "Main warm-weather collection: light fabrics, bright colors, prints.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-07-15",
+  "launch_date_till": "2025-07-15",
+  "launch_period": "Jul–Aug",
+  "modified": "2025-10-27 12:39:22.541996",
+  "name": "SS",
+  "season_code": "SS",
+  "season_name": "Spring/Summer",
+  "season_type": "Core Fashion Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-08-15",
+  "selling_date_till": "2025-08-15",
+  "selling_period": "Jul–Aug",
+  "specific_year": 0
+ },
+ {
+  "description": "Core cold-weather line: coats, knits, layering, rich tones.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-11-15",
+  "launch_date_till": "2025-11-15",
+  "launch_period": "Nov–Dec",
+  "modified": "2025-10-27 12:39:22.555618",
+  "name": "AW / FW",
+  "season_code": "AW / FW",
+  "season_name": "Autumn/Winter",
+  "season_type": "Core Fashion Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-12-15",
+  "selling_date_till": "2025-12-15",
+  "selling_period": "Nov–Dec",
+  "specific_year": 0
+ },
+ {
+  "description": "Between AW & SS; tropical, travel-ready styles.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-12-15",
+  "launch_date_till": "2025-12-15",
+  "launch_period": "Dec–Jan",
+  "modified": "2025-10-27 12:39:22.563756",
+  "name": "CR / RS",
+  "season_code": "CR / RS",
+  "season_name": "Resort / Cruise",
+  "season_type": "Transitional & Bridge Collections",
+  "season_year": null,
+  "selling_date_start": "2025-01-15",
+  "selling_date_till": "2025-01-15",
+  "selling_period": "Dec–Jan",
+  "specific_year": 0
+ },
+ {
+  "description": "Introduces early SS silhouettes in lighter fabrics.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-05-15",
+  "launch_date_till": "2025-05-15",
+  "launch_period": "May–July",
+  "modified": "2025-10-27 12:39:22.571827",
+  "name": "Pre-SP",
+  "season_code": "Pre-SP",
+  "season_name": "Pre-Spring",
+  "season_type": "Transitional & Bridge Collections",
+  "season_year": null,
+  "selling_date_start": "2025-07-15",
+  "selling_date_till": "2025-07-15",
+  "selling_period": "May–July",
+  "specific_year": 0
+ },
+ {
+  "description": "Transitional looks previewing AW trends.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-05-15",
+  "launch_date_till": "2025-05-15",
+  "launch_period": "May–June",
+  "modified": "2025-10-27 12:39:22.580245",
+  "name": "PF",
+  "season_code": "PF",
+  "season_name": "Pre-Fall",
+  "season_type": "Transitional & Bridge Collections",
+  "season_year": null,
+  "selling_date_start": "2025-06-15",
+  "selling_date_till": "2025-06-15",
+  "selling_period": "May–June",
+  "specific_year": 0
+ },
+ {
+  "description": "Peak-summer capsule; resortwear, swim, vacation looks.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-10-15",
+  "launch_date_till": "2025-10-15",
+  "launch_period": "Oct–Dec",
+  "modified": "2025-10-27 12:39:22.587932",
+  "name": "HS",
+  "season_code": "HS",
+  "season_name": "High Summer",
+  "season_type": "Transitional & Bridge Collections",
+  "season_year": null,
+  "selling_date_start": "2025-12-15",
+  "selling_date_till": "2025-12-15",
+  "selling_period": "Oct–Dec",
+  "specific_year": 0
+ },
+ {
+  "description": "Festive edit: partywear, metallics, red tones, gifting pieces.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-07-15",
+  "launch_date_till": "2025-07-15",
+  "launch_period": "Jul–Sep",
+  "modified": "2025-10-27 12:39:22.595652",
+  "name": "HO",
+  "season_code": "HO",
+  "season_name": "Holiday",
+  "season_type": "Transitional & Bridge Collections",
+  "season_year": null,
+  "selling_date_start": "2025-09-15",
+  "selling_date_till": "2025-09-15",
+  "selling_period": "Jul–Sep",
+  "specific_year": 0
+ },
+ {
+  "description": "Casualwear, denim, backpacks, activewear.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-03-15",
+  "launch_date_till": "2025-03-15",
+  "launch_period": "Mar-Apr",
+  "modified": "2025-10-27 12:39:22.603586",
+  "name": "BTS",
+  "season_code": "BTS",
+  "season_name": "Back to School",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-04-15",
+  "selling_date_till": "2025-04-15",
+  "selling_period": "Mar-Apr",
+  "specific_year": 0
+ },
+ {
+  "description": "Modest luxury, kaftans, elegant eveningwear.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-09-15",
+  "launch_date_till": "2025-09-15",
+  "launch_period": "Sep–Nov",
+  "modified": "2025-10-27 12:39:22.611905",
+  "name": "RAM",
+  "season_code": "RAM",
+  "season_name": "Ramadan / Eid Collection",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-11-15",
+  "selling_date_till": "2025-11-15",
+  "selling_period": "Sep–Nov",
+  "specific_year": 0
+ },
+ {
+  "description": "Festive ethnic/fusion wear, rich fabrics.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan–Feb",
+  "modified": "2025-10-27 12:39:22.621076",
+  "name": "DIW",
+  "season_code": "DIW",
+  "season_name": "Diwali Capsule",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan–Feb",
+  "specific_year": 0
+ },
+ {
+  "description": "Prosperity-themed red/gold collections.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan–Feb",
+  "modified": "2025-10-27 12:39:22.628884",
+  "name": "CHNNY",
+  "season_code": "CHNNY",
+  "season_name": "Chinese / Lunar New Year",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan–Feb",
+  "specific_year": 0
+ },
+ {
+  "description": "Romantic mini-capsules in pink, red, and heart motifs.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-11-15",
+  "launch_date_till": "2025-11-15",
+  "launch_period": "Nov–Dec",
+  "modified": "2025-10-27 12:39:22.636397",
+  "name": "VAL",
+  "season_code": "VAL",
+  "season_name": "Valentine’s Drop",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-12-15",
+  "selling_date_till": "2025-12-15",
+  "selling_period": "Nov–Dec",
+  "specific_year": 0
+ },
+ {
+  "description": "Discount-driven fast-turnover retail.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan-Jul",
+  "modified": "2025-10-27 12:39:22.644461",
+  "name": "BLKFRI",
+  "season_code": "BLKFRI",
+  "season_name": "Black Friday / Cyber Week",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-07-15",
+  "selling_date_till": "2025-07-15",
+  "selling_period": "Jan-Jul",
+  "specific_year": 0
+ },
+ {
+  "description": "Clearance of previous season inventory.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-03-15",
+  "launch_date_till": "2025-03-15",
+  "launch_period": "Mar–May",
+  "modified": "2025-10-27 12:39:22.651848",
+  "name": "WHTSL",
+  "season_code": "WHTSL",
+  "season_name": "White Sale / End of Season Sale (EOSS)",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-05-15",
+  "selling_date_till": "2025-05-15",
+  "selling_period": "Mar–May",
+  "specific_year": 0
+ },
+ {
+  "description": "Gifting-oriented dresses, accessories, and beauty.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-05-15",
+  "launch_date_till": "2025-05-15",
+  "launch_period": "May–Aug",
+  "modified": "2025-10-27 12:39:22.660094",
+  "name": "MD",
+  "season_code": "MD",
+  "season_name": "Mother’s Day Capsule",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-08-15",
+  "selling_date_till": "2025-08-15",
+  "selling_period": "May–Aug",
+  "specific_year": 0
+ },
+ {
+  "description": "Colorful, expressive, limited-run collections.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan–Feb",
+  "modified": "2025-10-27 12:39:22.667925",
+  "name": "FEST",
+  "season_code": "FEST",
+  "season_name": "Festival / Pride / Summer Capsule",
+  "season_type": "Capsule & Commercial Retail Seasons",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan–Feb",
+  "specific_year": 0
+ },
+ {
+  "description": "Custom luxury couture, high craftsmanship.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-06-15",
+  "launch_date_till": "2025-06-15",
+  "launch_period": "Jun-Jul",
+  "modified": "2025-10-27 12:39:22.675963",
+  "name": "HC SS",
+  "season_code": "HC SS",
+  "season_name": "Haute Couture Spring/Summer",
+  "season_type": "Couture & Luxury Fashion Calendar",
+  "season_year": null,
+  "selling_date_start": "2025-07-15",
+  "selling_date_till": "2025-07-15",
+  "selling_period": "Jun-Jul",
+  "specific_year": 0
+ },
+ {
+  "description": "Exclusive couture presentations for elite clients.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-06-15",
+  "launch_date_till": "2025-06-15",
+  "launch_period": "Jun-Jul",
+  "modified": "2025-10-27 12:39:22.683428",
+  "name": "HC AW",
+  "season_code": "HC AW",
+  "season_name": "Haute Couture Autumn/Winter",
+  "season_type": "Couture & Luxury Fashion Calendar",
+  "season_year": null,
+  "selling_date_start": "2025-07-15",
+  "selling_date_till": "2025-07-15",
+  "selling_period": "Jun-Jul",
+  "specific_year": 0
+ },
+ {
+  "description": "Menswear runway and retail pre-orders.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan-Feb",
+  "modified": "2025-10-27 12:39:22.691379",
+  "name": "M SS",
+  "season_code": "M SS",
+  "season_name": "Menswear Spring/Summer",
+  "season_type": "Couture & Luxury Fashion Calendar",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan-Feb",
+  "specific_year": 0
+ },
+ {
+  "description": "Cold-season men’s fashion launches.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-05-15",
+  "launch_date_till": "2025-05-15",
+  "launch_period": "May–June",
+  "modified": "2025-10-27 12:39:22.698972",
+  "name": "M AW",
+  "season_code": "M AW",
+  "season_name": "Menswear Autumn/Winter",
+  "season_type": "Couture & Luxury Fashion Calendar",
+  "season_year": null,
+  "selling_date_start": "2025-06-15",
+  "selling_date_till": "2025-06-15",
+  "selling_period": "May–June",
+  "specific_year": 0
+ },
+ {
+  "description": "Shown by luxury houses like Chanel, Dior, Louis Vuitton.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-12-15",
+  "launch_date_till": "2025-12-15",
+  "launch_period": "Dec–Jan",
+  "modified": "2025-10-27 12:39:22.706914",
+  "name": "CR",
+  "season_code": "CR",
+  "season_name": "Resort / Cruise",
+  "season_type": "Couture & Luxury Fashion Calendar",
+  "season_year": null,
+  "selling_date_start": "2025-01-15",
+  "selling_date_till": "2025-01-15",
+  "selling_period": "Dec–Jan",
+  "specific_year": 0
+ },
+ {
+  "description": "Florals, light knits, casual chic.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-05-15",
+  "launch_date_till": "2025-05-15",
+  "launch_period": "May–July",
+  "modified": "2025-10-27 12:39:22.725177",
+  "name": "SPRF",
+  "season_code": "SPRF",
+  "season_name": "Spring Refresh / New Beginnings",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-07-15",
+  "selling_date_till": "2025-07-15",
+  "selling_period": "May–July",
+  "specific_year": 0
+ },
+ {
+  "description": "Swimwear, linens, travel sets.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-08-15",
+  "launch_date_till": "2025-08-15",
+  "launch_period": "Aug–Oct",
+  "modified": "2025-10-27 12:39:22.733213",
+  "name": "SUMESC",
+  "season_code": "SUMESC",
+  "season_name": "Summer Escape / Beachwear",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-10-15",
+  "selling_date_till": "2025-10-15",
+  "selling_period": "Aug–Oct",
+  "specific_year": 0
+ },
+ {
+  "description": "Officewear, layering pieces.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-11-15",
+  "launch_date_till": "2025-11-15",
+  "launch_period": "Nov–Jan",
+  "modified": "2025-10-27 12:39:22.740556",
+  "name": "FALL",
+  "season_code": "FALL",
+  "season_name": "Fall Trends / Back to Work",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-01-15",
+  "selling_date_till": "2025-01-15",
+  "selling_period": "Nov–Jan",
+  "specific_year": 0
+ },
+ {
+  "description": "Knits, outerwear, accessories.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-11-15",
+  "launch_date_till": "2025-11-15",
+  "launch_period": "Nov–Dec",
+  "modified": "2025-10-27 12:39:22.749469",
+  "name": "WNTLUX",
+  "season_code": "WNTLUX",
+  "season_name": "Winter Luxe / Cozy Edit",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-12-15",
+  "selling_date_till": "2025-12-15",
+  "selling_period": "Nov–Dec",
+  "specific_year": 0
+ },
+ {
+  "description": "Partywear, gifting, sparkle.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan–Feb",
+  "modified": "2025-10-27 12:39:22.764492",
+  "name": "FESTNY",
+  "season_code": "FESTNY",
+  "season_name": "Festive / Holiday Cheer",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan–Feb",
+  "specific_year": 0
+ },
+ {
+  "description": "Athleisure, fitness-focused collections.",
+  "docstatus": 0,
+  "doctype": "Season",
+  "launch_date_start": "2025-01-15",
+  "launch_date_till": "2025-01-15",
+  "launch_period": "Jan–Feb",
+  "modified": "2025-10-27 12:39:22.772959",
+  "name": "RES",
+  "season_code": "RES",
+  "season_name": "Resolutions / Active Start",
+  "season_type": "Marketing & Thematic Retail Moments",
+  "season_year": null,
+  "selling_date_start": "2025-02-15",
+  "selling_date_till": "2025-02-15",
+  "selling_period": "Jan–Feb",
+  "specific_year": 0
  }
 ]

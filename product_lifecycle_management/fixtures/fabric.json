@@ -1,0 +1,572 @@
+[
+ {
+  "common_uses": "T-shirts, casual wear, bedding.",
+  "description": "Soft, breathable, absorbent, comfortable; wrinkles easily; may shrink.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Cotton",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.898365",
+  "name": "100% Cotton"
+ },
+ {
+  "common_uses": "Summer apparel, suits, home textiles.",
+  "description": "Crisp texture, breathable, highly absorbent; wrinkles easily.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Linen",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.913706",
+  "name": "100% Linen"
+ },
+ {
+  "common_uses": "Sweaters, coats, suits, blankets.",
+  "description": "Warm, insulating, resilient; naturally flame- and odor-resistant.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Wool",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.923612",
+  "name": "100% Wool"
+ },
+ {
+  "common_uses": "Dresses, scarves, ties, lingerie.",
+  "description": "Smooth, lustrous, breathable, luxurious; temperature regulating.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Silk",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.930800",
+  "name": "100% Silk"
+ },
+ {
+  "common_uses": "Knitwear, coats, scarves.",
+  "description": "Ultra-soft fine wool from cashmere goats; warm, light, expensive.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Cashmere",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.940603",
+  "name": "100% Cashmere"
+ },
+ {
+  "common_uses": "Shirts, pants, eco-textiles.",
+  "description": "Durable, breathable, eco-friendly, softens with wear.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Hemp",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.947224",
+  "name": "100% Hemp"
+ },
+ {
+  "common_uses": "Bags, rugs, upholstery.",
+  "description": "Coarse, biodegradable, strong; natural golden color.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Jute",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.954577",
+  "name": "100% Jute"
+ },
+ {
+  "common_uses": "Summer clothing, table linens.",
+  "description": "Crisp, lustrous, strong; holds shape well.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Ramie",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.961820",
+  "name": "100% Ramie"
+ },
+ {
+  "common_uses": "Knitwear, outerwear.",
+  "description": "Warm, soft, hypoallergenic, lightweight.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Alpaca",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.969227",
+  "name": "100% Alpaca"
+ },
+ {
+  "common_uses": "Sweaters, coats, upholstery.",
+  "description": "Lustrous, silky, resilient; made from Angora goat hair.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Mohair",
+  "fabric_type": "Natural Fibers",
+  "modified": "2025-10-27 13:10:05.976778",
+  "name": "100% Mohair"
+ },
+ {
+  "common_uses": "Sportswear, outerwear, furnishings.",
+  "description": "Strong, wrinkle-resistant, quick-drying, holds color, durable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Polyester",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:05.983408",
+  "name": "100% Polyester"
+ },
+ {
+  "common_uses": "Swimwear, tights, outdoor gear.",
+  "description": "Lightweight, elastic, moisture-resistant, tough.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Nylon (Polyamide)",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:05.989967",
+  "name": "100% Nylon (Polyamide)"
+ },
+ {
+  "common_uses": "Sweaters, blankets, knitwear.",
+  "description": "Soft, warm, lightweight, wool-like, moth-resistant.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Acrylic",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:05.996163",
+  "name": "100% Acrylic"
+ },
+ {
+  "common_uses": "Activewear, swimwear, leggings.",
+  "description": "Excellent stretch and recovery; often blended.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Spandex (Elastane / Lycra)",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:06.003784",
+  "name": "100% Spandex (Elastane / Lycra)"
+ },
+ {
+  "common_uses": "Activewear, base layers.",
+  "description": "Moisture-wicking, stain-resistant, lightweight.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Polypropylene",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:06.010195",
+  "name": "100% Polypropylene"
+ },
+ {
+  "common_uses": "Safety wear, uniforms, industrial uses.",
+  "description": "Heat- and flame-resistant, extremely strong.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Aramid (Kevlar, Nomex)",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:06.021093",
+  "name": "100% Aramid (Kevlar, Nomex)"
+ },
+ {
+  "common_uses": "Faux leather, rainwear.",
+  "description": "Flexible, water-resistant; often used in coatings.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Polyurethane",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:06.030871",
+  "name": "100% Polyurethane"
+ },
+ {
+  "common_uses": "Outdoor fabrics, carpets, upholstery.",
+  "description": "Lightweight, strong, resists moisture, mildew.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Olefin",
+  "fabric_type": "Synthetic Fibers",
+  "modified": "2025-10-27 13:10:06.038300",
+  "name": "100% Olefin"
+ },
+ {
+  "common_uses": "Dresses, blouses, linings.",
+  "description": "Cellulose-based; soft, breathable, good drape, absorbs dye.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Rayon (Viscose)",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.045638",
+  "name": "100% Rayon (Viscose)"
+ },
+ {
+  "common_uses": "Underwear, activewear, loungewear.",
+  "description": "Type of rayon; silky, breathable, durable, resistant to shrinkage.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Modal",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.052374",
+  "name": "100% Modal"
+ },
+ {
+  "common_uses": "Shirts, dresses, bedding.",
+  "description": "Sustainable wood pulp; smooth, strong, moisture-wicking, biodegradable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Lyocell (Tencel™)",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.059259",
+  "name": "100% Lyocell (Tencel™)"
+ },
+ {
+  "common_uses": "Linings, dresses, blouses.",
+  "description": "From cotton linter; silky, smooth, breathable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Cupro",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.067220",
+  "name": "100% Cupro"
+ },
+ {
+  "common_uses": "Babywear, sleepwear, T-shirts.",
+  "description": "Made from bamboo pulp; soft, breathable, antimicrobial.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Bamboo Viscose",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.073938",
+  "name": "100% Bamboo Viscose"
+ },
+ {
+  "common_uses": "Linings, formal wear.",
+  "description": "Shiny, smooth, drapes well; less durable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Acetate",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.081379",
+  "name": "100% Acetate"
+ },
+ {
+  "common_uses": "Eveningwear, blouses.",
+  "description": "Wrinkle-resistant, holds pleats, glossy.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "100% Triacetate",
+  "fabric_type": "Regenerated Fibers",
+  "modified": "2025-10-27 13:10:06.087923",
+  "name": "100% Triacetate"
+ },
+ {
+  "common_uses": "Dresses, leggings, tops.",
+  "description": "Wrinkle-resistant, stretchy, durable, shape-retaining.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "95% Polyester / 5% Spandex",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.096073",
+  "name": "95% Polyester / 5% Spandex"
+ },
+ {
+  "common_uses": "Swimwear, activewear.",
+  "description": "Smooth, flexible, moisture-wicking, strong.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "90% Nylon / 10% Spandex",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.103041",
+  "name": "90% Nylon / 10% Spandex"
+ },
+ {
+  "common_uses": "T-shirts, polos, uniforms.",
+  "description": "Breathable, soft, less wrinkling, easy-care.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "60% Cotton / 40% Polyester",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.109948",
+  "name": "60% Cotton / 40% Polyester"
+ },
+ {
+  "common_uses": "Workwear, uniforms.",
+  "description": "Durable, wrinkle-free, colorfast.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "65% Polyester / 35% Cotton",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.120677",
+  "name": "65% Polyester / 35% Cotton"
+ },
+ {
+  "common_uses": "Hoodies, sweatshirts.",
+  "description": "Breathable with added durability and color retention.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "80% Cotton / 20% Polyester",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.130437",
+  "name": "80% Cotton / 20% Polyester"
+ },
+ {
+  "common_uses": "Blouses, dresses.",
+  "description": "Soft, good drape, breathable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "50% Cotton / 50% Rayon",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.139715",
+  "name": "50% Cotton / 50% Rayon"
+ },
+ {
+  "common_uses": "Summer garments.",
+  "description": "Natural, breathable, crisp, textured.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "70% Cotton / 30% Linen",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.161989",
+  "name": "70% Cotton / 30% Linen"
+ },
+ {
+  "common_uses": "Coats, knitwear.",
+  "description": "Warm, strong, less pilling.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "80% Wool / 20% Nylon",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.169146",
+  "name": "80% Wool / 20% Nylon"
+ },
+ {
+  "common_uses": "Sweaters, scarves.",
+  "description": "Warm, soft, affordable alternative to pure wool.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "50% Wool / 50% Acrylic",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.184504",
+  "name": "50% Wool / 50% Acrylic"
+ },
+ {
+  "common_uses": "Fashion tops, dresses.",
+  "description": "Silky drape, durable, breathable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "70% Viscose / 30% Nylon",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.192948",
+  "name": "70% Viscose / 30% Nylon"
+ },
+ {
+  "common_uses": "T-shirts, leggings, underwear.",
+  "description": "Soft, breathable, flexible.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "95% Cotton / 5% Spandex",
+  "fabric_type": "Common Blends",
+  "modified": "2025-10-27 13:10:06.199088",
+  "name": "95% Cotton / 5% Spandex"
+ },
+ {
+  "common_uses": "Denim, activewear.",
+  "description": "Comfort, stretch, and durability combined.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Polyester / Cotton / Spandex",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.209451",
+  "name": "Polyester / Cotton / Spandex"
+ },
+ {
+  "common_uses": "Sportswear, compression wear.",
+  "description": "Moisture management, flexibility.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Nylon / Spandex / Polyester",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.216859",
+  "name": "Nylon / Spandex / Polyester"
+ },
+ {
+  "common_uses": "Workwear, uniforms, tops.",
+  "description": "Soft touch, stretch, good recovery.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Polyester / Rayon / Spandex",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.240051",
+  "name": "Polyester / Rayon / Spandex"
+ },
+ {
+  "common_uses": "Eco-activewear, jackets.",
+  "description": "Made from recycled plastic bottles; sustainable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Recycled Polyester (rPET)",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.248832",
+  "name": "Recycled Polyester (rPET)"
+ },
+ {
+  "common_uses": "Basics, casualwear.",
+  "description": "Natural feel with gentle stretch.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Organic Cotton / Elastane",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.256347",
+  "name": "Organic Cotton / Elastane"
+ },
+ {
+  "common_uses": "Athletic apparel.",
+  "description": "Wicks sweat, breathable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Cotton / Coolmax Polyester",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.263559",
+  "name": "Cotton / Coolmax Polyester"
+ },
+ {
+  "common_uses": "Outdoor and hiking gear.",
+  "description": "Warm, odor-resistant, stretchy.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Merino Wool / Nylon / Spandex",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.270533",
+  "name": "Merino Wool / Nylon / Spandex"
+ },
+ {
+  "common_uses": "Loungewear, underwear.",
+  "description": "Soft, breathable, antimicrobial.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Polyester / Bamboo Viscose",
+  "fabric_type": "Performance Blends",
+  "modified": "2025-10-27 13:10:06.277629",
+  "name": "Polyester / Bamboo Viscose"
+ },
+ {
+  "common_uses": "Dresses, shirts.",
+  "description": "Breathable, soft, with subtle sheen.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Silk / Cotton",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.286746",
+  "name": "Silk / Cotton"
+ },
+ {
+  "common_uses": "Suits, scarves.",
+  "description": "Warm, elegant, smooth finish.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Silk / Wool",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.293987",
+  "name": "Silk / Wool"
+ },
+ {
+  "common_uses": "Sweaters, coats.",
+  "description": "Soft, lightweight, warm, premium feel.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Cashmere / Wool",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.301302",
+  "name": "Cashmere / Wool"
+ },
+ {
+  "common_uses": "Summer luxury garments.",
+  "description": "Textured, lustrous, breathable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Linen / Silk",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.308549",
+  "name": "Linen / Silk"
+ },
+ {
+  "common_uses": "Dresses, blouses.",
+  "description": "Elegant drape, sheen; silk alternative.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Viscose / Silk",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.316519",
+  "name": "Viscose / Silk"
+ },
+ {
+  "common_uses": "Coats, suits.",
+  "description": "Lustrous, warm, durable.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Wool / Mohair",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.323524",
+  "name": "Wool / Mohair"
+ },
+ {
+  "common_uses": "Tailored garments, scarves.",
+  "description": "Ultimate luxury; warm, soft, smooth.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Wool / Silk / Cashmere",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.330464",
+  "name": "Wool / Silk / Cashmere"
+ },
+ {
+  "common_uses": "Knitwear, premium basics.",
+  "description": "Breathable, ultra-soft, lightweight.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Cotton / Cashmere",
+  "fabric_type": "Luxury Blends",
+  "modified": "2025-10-27 13:10:06.338568",
+  "name": "Cotton / Cashmere"
+ },
+ {
+  "common_uses": "Eco-denim, basics.",
+  "description": "Made from post-industrial or post-consumer cotton waste.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Recycled Cotton",
+  "fabric_type": "Sustainable Fibers",
+  "modified": "2025-10-27 13:10:06.347178",
+  "name": "Recycled Cotton"
+ },
+ {
+  "common_uses": "Outerwear, sportswear.",
+  "description": "From plastic bottles or textile waste; reduces landfill.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Recycled Polyester",
+  "fabric_type": "Sustainable Fibers",
+  "modified": "2025-10-27 13:10:06.353669",
+  "name": "Recycled Polyester"
+ },
+ {
+  "common_uses": "Everyday clothing, babywear.",
+  "description": "Grown without pesticides or GMOs.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Organic Cotton",
+  "fabric_type": "Sustainable Fibers",
+  "modified": "2025-10-27 13:10:06.360125",
+  "name": "Organic Cotton"
+ },
+ {
+  "common_uses": "Eco-fashion, casualwear.",
+  "description": "Durable, breathable, low-impact.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Hemp / Organic Cotton Blend",
+  "fabric_type": "Sustainable Fibers",
+  "modified": "2025-10-27 13:10:06.366550",
+  "name": "Hemp / Organic Cotton Blend"
+ },
+ {
+  "common_uses": "Shirts, dresses.",
+  "description": "Soft, sustainable, smooth drape.",
+  "docstatus": 0,
+  "doctype": "Fabric",
+  "fabric": "Lyocell (Tencel™) / Cotton Blend",
+  "fabric_type": "Sustainable Fibers",
+  "modified": "2025-10-27 13:10:06.374261",
+  "name": "Lyocell (Tencel™) / Cotton Blend"
+ }
+]

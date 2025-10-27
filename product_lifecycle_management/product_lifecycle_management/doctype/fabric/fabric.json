@@ -7,22 +7,45 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "fabric"
+  "fabric",
+  "fabric_type",
+  "description",
+  "common_uses"
  ],
  "fields": [
   {
    "fieldname": "fabric",
    "fieldtype": "Data",
-   "in_list_view": 1,
    "label": "Fabric",
    "reqd": 1,
    "unique": 1
+  },
+  {
+   "fieldname": "fabric_type",
+   "fieldtype": "Select",
+   "in_filter": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Fabric Type",
+   "options": "Natural Fibers\nSynthetic Fibers\nRegenerated Fibers\nCommon Blends\nPerformance Blends\nLuxury Blends\nSustainable Fibers",
+   "reqd": 1
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "Description"
+  },
+  {
+   "fieldname": "common_uses",
+   "fieldtype": "Data",
+   "label": "Common Uses"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-23 13:33:12.364362",
+ "modified": "2025-10-27 13:05:37.037809",
  "modified_by": "Administrator",
  "module": "Product Lifecycle Management",
  "name": "Fabric",
