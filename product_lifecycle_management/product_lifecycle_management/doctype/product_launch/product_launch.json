@@ -1,0 +1,291 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "field:article",
+ "creation": "2025-10-27 13:47:34.915441",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "tech_pack_initial_specs_section",
+  "article",
+  "swatch_number",
+  "fit",
+  "target",
+  "merchandizing_target_price",
+  "status",
+  "column_break_mvhn",
+  "season",
+  "product_category",
+  "nature",
+  "brand",
+  "fabric",
+  "product_color",
+  "sketch_and_construction_section",
+  "primary_sketch_front",
+  "primary_sketch_back",
+  "detail_sketches",
+  "construction_notes",
+  "stages_tab",
+  "approvals_section",
+  "spec_sheet",
+  "supplier_selection",
+  "fabric_selection",
+  "lab_dip_finalization",
+  "proto_typefirst_fit",
+  "trim_selection",
+  "pre_production_sample",
+  "size_set__and_fit",
+  "final_lab__labelling__testing",
+  "tech_pack",
+  "run_pilot1st_run_qc",
+  "run_pilot1st_run_qc_copy",
+  "post_launch_feedback_tab"
+ ],
+ "fields": [
+  {
+   "fieldname": "swatch_number",
+   "fieldtype": "Data",
+   "label": "Swatch Number"
+  },
+  {
+   "fieldname": "product_color",
+   "fieldtype": "Link",
+   "label": "Product Color",
+   "options": "Product Color"
+  },
+  {
+   "fieldname": "article",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Article",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "tech_pack_initial_specs_section",
+   "fieldtype": "Section Break",
+   "label": "Tech Pack Initial Specs"
+  },
+  {
+   "fieldname": "column_break_mvhn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "season",
+   "fieldtype": "Link",
+   "label": "Season",
+   "options": "Season"
+  },
+  {
+   "fieldname": "product_category",
+   "fieldtype": "Link",
+   "label": "Product Category",
+   "options": "Product Category"
+  },
+  {
+   "fieldname": "nature",
+   "fieldtype": "Link",
+   "label": "Nature",
+   "options": "Nature"
+  },
+  {
+   "fieldname": "brand",
+   "fieldtype": "Link",
+   "label": "Brand",
+   "options": "Brand"
+  },
+  {
+   "fieldname": "fabric",
+   "fieldtype": "Link",
+   "label": "Fabric",
+   "options": "Fabric"
+  },
+  {
+   "fieldname": "fit",
+   "fieldtype": "Select",
+   "label": "Fit"
+  },
+  {
+   "fieldname": "target",
+   "fieldtype": "Data",
+   "label": "Target"
+  },
+  {
+   "fieldname": "merchandizing_target_price",
+   "fieldtype": "Data",
+   "label": "Merchandizing Target Price"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "In Development\nSubmitted\nApproved"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "sketch_and_construction_section",
+   "fieldtype": "Section Break",
+   "label": "Sketch And Construction"
+  },
+  {
+   "fieldname": "primary_sketch_front",
+   "fieldtype": "Attach Image",
+   "label": "Primary Sketch Front"
+  },
+  {
+   "fieldname": "primary_sketch_back",
+   "fieldtype": "Attach Image",
+   "label": "Primary Sketch Back"
+  },
+  {
+   "fieldname": "detail_sketches",
+   "fieldtype": "Attach Image",
+   "label": "Detail Sketches"
+  },
+  {
+   "fieldname": "construction_notes",
+   "fieldtype": "Text Editor",
+   "label": "Construction Notes"
+  },
+  {
+   "fieldname": "stages_tab",
+   "fieldtype": "Tab Break",
+   "label": "Stages"
+  },
+  {
+   "fieldname": "approvals_section",
+   "fieldtype": "Section Break",
+   "label": "Approvals"
+  },
+  {
+   "default": "0",
+   "fieldname": "spec_sheet",
+   "fieldtype": "Check",
+   "label": "Spec Sheet"
+  },
+  {
+   "default": "0",
+   "fieldname": "supplier_selection",
+   "fieldtype": "Check",
+   "label": "Supplier Selection"
+  },
+  {
+   "default": "0",
+   "fieldname": "fabric_selection",
+   "fieldtype": "Check",
+   "label": "Fabric Selection"
+  },
+  {
+   "default": "0",
+   "fieldname": "lab_dip_finalization",
+   "fieldtype": "Check",
+   "label": "Lab Dip Finalization"
+  },
+  {
+   "default": "0",
+   "fieldname": "proto_typefirst_fit",
+   "fieldtype": "Check",
+   "label": "Proto Type/First Fit"
+  },
+  {
+   "default": "0",
+   "fieldname": "trim_selection",
+   "fieldtype": "Check",
+   "label": "Trim Selection"
+  },
+  {
+   "default": "0",
+   "fieldname": "pre_production_sample",
+   "fieldtype": "Check",
+   "label": "Pre Production Sample"
+  },
+  {
+   "default": "0",
+   "fieldname": "size_set__and_fit",
+   "fieldtype": "Check",
+   "label": "Size Set  And Fit"
+  },
+  {
+   "default": "0",
+   "fieldname": "final_lab__labelling__testing",
+   "fieldtype": "Check",
+   "label": "Final Lab / Labelling / Testing"
+  },
+  {
+   "default": "0",
+   "fieldname": "tech_pack",
+   "fieldtype": "Check",
+   "label": "Tech Pack"
+  },
+  {
+   "default": "0",
+   "fieldname": "run_pilot1st_run_qc",
+   "fieldtype": "Check",
+   "label": "Run Pilot/1st Run QC"
+  },
+  {
+   "default": "0",
+   "fieldname": "run_pilot1st_run_qc_copy",
+   "fieldtype": "Check",
+   "label": "Run Pilot/1st Run QC Copy"
+  },
+  {
+   "fieldname": "post_launch_feedback_tab",
+   "fieldtype": "Tab Break",
+   "label": "Post Launch Feedback"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-10-28 10:09:04.770955",
+ "modified_by": "Administrator",
+ "module": "Product Lifecycle Management",
+ "name": "Product Launch",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "PLM Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "PLM User",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
