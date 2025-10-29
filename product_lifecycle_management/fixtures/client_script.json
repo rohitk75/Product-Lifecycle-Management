@@ -1,0 +1,24 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Season",
+  "enabled": 1,
+  "modified": "2025-10-27 12:13:32.218249",
+  "module": "Product Lifecycle Management",
+  "name": "Season Set Dates",
+  "script": "function isValidDate(date) {\n  return date instanceof Date && !isNaN(date.getTime());\n}\n\nfrappe.ui.form.on('Season', {\n\trefresh(frm) {\n    var today = new Date(); \n\n    // this is how you get data from form\n    var launch_date_start = new Date(frm.doc.launch_date_start); \n    var launch_date_till = new Date(frm.doc.launch_date_till); \n    var selling_date_start = new Date(frm.doc.selling_date_start); \n    var selling_date_till = new Date(frm.doc.selling_date_till);     \n    \n    if (isValidDate(launch_date_start)) { \n        var launch_date_start_month =  launch_date_start.toLocaleString('default', { month: 'short' });\n    } else {\n        var launch_date_start_month =  \"\";\n        \n    } \n    if (isValidDate(launch_date_till)) { \n        var launch_date_till_month= launch_date_till.toLocaleString('default', { month: 'short' });\n    } else {\n        var launch_date_till_month=\"\";\n    }\n    \n        if (isValidDate(selling_date_start)) { \n        var selling_date_start_month =  selling_date_start.toLocaleString('default', { month: 'short' });\n    } else {\n        var selling_date_start_month =  \"\";\n        \n    } \n    if (isValidDate(selling_date_till)) { \n        var selling_date_till_month= selling_date_till.toLocaleString('default', { month: 'short' });\n    } else {\n        var selling_date_till_month=\"\";\n    }\n    \n    var launch_period = launch_date_start_month + \"-\" + launch_date_till_month ;\n    var selling_period = selling_date_start_month + \"-\" + selling_date_till_month;\n\n   // var age = today.getFullYear() - birthDate.getFullYear(); var m = today.getMonth() - birthDate.getMonth(); \n//    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) { \n //     age--; \n   // } \n    \n    if (frm.doc.specific_year === 1) {\n            // Checkbox is checked\n            //frappe.msgprint(\"The checkbox is checked!\");\n            var yearValue = Math.max((launch_date_start.getFullYear() || 0), (launch_date_till.getFullYear() || 0), (selling_date_start.getFullYear() || 0) , (selling_date_till.getFullYear() || 0) );\n            //frappe.msgprint(\"JS The checkbox is checked!\" +yearValue );\n            frm.set_value('season_year', yearValue);\n            yearValue = ' ' + yearValue;\n        } else {\n            // Checkbox is not checked\n            //frappe.msgprint(\"The checkbox is not checked.\");\n            var yearValue = '';\n        }\n    // use frm.set_value to set value of a field\n    frm.set_value('launch_period', launch_period + yearValue);\n    frm.set_value('selling_period', selling_period + yearValue);    \n\t}\n})",
+  "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Product Launch",
+  "enabled": 1,
+  "modified": "2025-10-28 15:24:42.058128",
+  "module": "Product Lifecycle Management",
+  "name": "Add Project",
+  "script": "frappe.ui.form.on('Product Launch', {\n\trefresh(frm) {\n\t    \n            frm.add_custom_button(__(\"Create Project\"), function() {\n                //frappe.msgprint(\"JS Create Prokject\");\n                // Call the server-side function here\n                frappe.call({\n\n                    method:\"addproject\",\n                    args: {\n                        name: frm.doc.name\n                    },\n                    callback: function(r) {\n                        if(r.message) {\n                            frappe.msgprint(\"Task created successfully!\");\n                        }\n                    }\n                });                \n\n            });\n            \n            frm.add_custom_button(__(\"Create Pong\"), function() {\n                //frappe.msgprint(\"JS Create Prokject\");\n                // Call the server-side function here\n                frappe.call({\n\n                    method:\"demo\",\n                    args: {\n                        message:\"ping\"\n                    },\n                    callback: function(r) {\n                        if(r.message) {\n                            frappe.msgprint(\"PINGPONG created successfully!\");\n                        }\n                    }\n                });                \n\n            });            \n\t}\n})",
+  "view": "Form"
+ }
+]

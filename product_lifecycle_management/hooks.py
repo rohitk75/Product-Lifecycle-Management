@@ -244,6 +244,8 @@ app_license = "mit"
 
 # Product Lifecycle Management Supporting Doctypes with Data 
 fixtures = [
+"Client Script",
+{"doctype": "Server Script", "filters": [["module", "=", "Product Lifecycle Management"]]},
 {"doctype": "Product Category"},
 {"doctype": "Season"},
 {"doctype": "Size Groups"},
