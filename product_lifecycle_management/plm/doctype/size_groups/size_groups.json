@@ -2,53 +2,65 @@
  "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
- "autoname": "field:fabric",
- "creation": "2025-10-23 13:31:59.927986",
+ "autoname": "field:size_group_code",
+ "creation": "2025-10-22 13:26:36.664310",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "fabric",
-  "fabric_type",
-  "description",
-  "common_uses"
+  "size_group_code",
+  "size_group_name",
+  "product_category",
+  "gender",
+  "size"
  ],
  "fields": [
   {
-   "fieldname": "fabric",
+   "columns": 4,
+   "fieldname": "product_category",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Product Category",
+   "options": "Tops / Dresses / Knitwear\nBottoms / Pants / Skirts\nFootwear\nTops / Shirts / Outerwear\nBottoms / Pants / Denim\nAccessories / OS Items"
+  },
+  {
+   "columns": 1,
+   "fieldname": "size_group_code",
    "fieldtype": "Data",
-   "label": "Fabric",
-   "reqd": 1,
+   "label": "Size Group Code",
    "unique": 1
   },
   {
-   "fieldname": "fabric_type",
+   "columns": 2,
+   "fieldname": "gender",
    "fieldtype": "Select",
-   "in_filter": 1,
    "in_list_view": 1,
-   "in_preview": 1,
    "in_standard_filter": 1,
-   "label": "Fabric Type",
-   "options": "Natural Fibers\nSynthetic Fibers\nRegenerated Fibers\nCommon Blends\nPerformance Blends\nLuxury Blends\nSustainable Fibers",
-   "reqd": 1
+   "label": "Gender",
+   "options": "Men\nWomen\nUnisex"
   },
   {
-   "fieldname": "description",
-   "fieldtype": "Small Text",
-   "label": "Description"
-  },
-  {
-   "fieldname": "common_uses",
+   "columns": 4,
+   "fieldname": "size_group_name",
    "fieldtype": "Data",
-   "label": "Common Uses"
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Size Group Name"
+  },
+  {
+   "fieldname": "size",
+   "fieldtype": "Table",
+   "label": "Size",
+   "options": "Size"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-27 13:05:37.037809",
+ "modified": "2025-10-29 17:20:05.343219",
  "modified_by": "Administrator",
- "module": "Product Lifecycle Management",
- "name": "Fabric",
+ "module": "PLM",
+ "name": "Size Groups",
  "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [

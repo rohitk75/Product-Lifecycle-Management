@@ -1,1 +1,365 @@
-[]
+[
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Women",
+  "modified": "2025-10-29 17:12:42.086911",
+  "name": "WTOP-ALPHA",
+  "product_category": "Tops / Dresses / Knitwear",
+  "size": [
+   {
+    "order": 1,
+    "parent": "WTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "UK 6 / EU 34 / US 2",
+    "size": "XS",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "WTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "UK 8 / EU 36 / US 4",
+    "size": "S",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "WTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "UK 10 / EU 38 / US 6",
+    "size": "M",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "WTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "UK 12 / EU 40 / US 8",
+    "size": "L",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "WTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "UK 14 / EU 42 / US 10",
+    "size": "XL",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "WTOP-ALPHA",
+  "size_group_name": "Women’s Tops Alpha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Women",
+  "modified": "2025-10-29 17:12:42.113133",
+  "name": "WBOT-NUM",
+  "product_category": "Bottoms / Pants / Skirts",
+  "size": [
+   {
+    "order": 1,
+    "parent": "WBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 24\"",
+    "size": "24",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "WBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 26\"",
+    "size": "26",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "WBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 28\"",
+    "size": "28",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "WBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 30\"",
+    "size": "30",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "WBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 32\"",
+    "size": "32",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "WBOT-NUM",
+  "size_group_name": "Women’s Bottoms Numeric"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Women",
+  "modified": "2025-10-29 17:12:42.134793",
+  "name": "FW-WOM",
+  "product_category": "Footwear",
+  "size": [
+   {
+    "order": 1,
+    "parent": "FW-WOM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 36 / US 5",
+    "size": "3",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "FW-WOM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 37 / US 6",
+    "size": "4",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "FW-WOM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 38 / US 7",
+    "size": "5",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "FW-WOM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 39 / US 8",
+    "size": "6",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "FW-WOM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 40 / US 9",
+    "size": "7",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "FW-WOM",
+  "size_group_name": "Women’s Footwear"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Men",
+  "modified": "2025-10-29 17:12:42.150490",
+  "name": "MTOP-ALPHA",
+  "product_category": "Tops / Shirts / Outerwear",
+  "size": [
+   {
+    "order": 1,
+    "parent": "MTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Chest 36–38\"",
+    "size": "S",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "MTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Chest 39–40\"",
+    "size": "M",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "MTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Chest 41–43\"",
+    "size": "L",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "MTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Chest 44–46\"",
+    "size": "XL",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "MTOP-ALPHA",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Chest 47–48\"",
+    "size": "XXL",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "MTOP-ALPHA",
+  "size_group_name": "Men’s Tops Alpha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Men",
+  "modified": "2025-10-29 17:12:42.171926",
+  "name": "MBOT-NUM",
+  "product_category": "Bottoms / Pants / Denim",
+  "size": [
+   {
+    "order": 1,
+    "parent": "MBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 28\"",
+    "size": "28",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "MBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 30\"",
+    "size": "30",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "MBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 32\"",
+    "size": "32",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "MBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 34\"",
+    "size": "34",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "MBOT-NUM",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "Waist 36\"",
+    "size": "36",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "MBOT-NUM",
+  "size_group_name": "Men’s Bottoms Numeric"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Men",
+  "modified": "2025-10-29 17:12:42.186702",
+  "name": "FW-MEN",
+  "product_category": "Footwear",
+  "size": [
+   {
+    "order": 1,
+    "parent": "FW-MEN",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 39 / US 7",
+    "size": "6",
+    "size_group_code": null
+   },
+   {
+    "order": 2,
+    "parent": "FW-MEN",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 40 / US 8",
+    "size": "7",
+    "size_group_code": null
+   },
+   {
+    "order": 3,
+    "parent": "FW-MEN",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 41 / US 9",
+    "size": "8",
+    "size_group_code": null
+   },
+   {
+    "order": 4,
+    "parent": "FW-MEN",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 42 / US 10",
+    "size": "9",
+    "size_group_code": null
+   },
+   {
+    "order": 5,
+    "parent": "FW-MEN",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "EU 43 / US 11",
+    "size": "10",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "FW-MEN",
+  "size_group_name": "Men’s Footwear"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Size Groups",
+  "gender": "Unisex",
+  "modified": "2025-10-29 17:12:42.198851",
+  "name": "ACC-OS",
+  "product_category": "Accessories / OS Items",
+  "size": [
+   {
+    "order": 1,
+    "parent": "ACC-OS",
+    "parentfield": "size",
+    "parenttype": "Size Groups",
+    "regional_mapping": "One Size Fits All",
+    "size": "OS",
+    "size_group_code": null
+   }
+  ],
+  "size_group_code": "ACC-OS",
+  "size_group_name": "Accessories One Size"
+ }
+]

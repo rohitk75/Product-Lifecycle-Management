@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-10-29 16:18:19.299159",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "measure",
+  "measurement_attribute",
+  "cms",
+  "size"
+ ],
+ "fields": [
+  {
+   "fieldname": "measure",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Measure",
+   "options": "Measurement Attributes",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "measure.measurement_attribute",
+   "fieldname": "measurement_attribute",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Measurement Attribute",
+   "read_only": 1
+  },
+  {
+   "fieldname": "cms",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "CMs",
+   "precision": "1"
+  },
+  {
+   "fieldname": "size",
+   "fieldtype": "Link",
+   "label": "Size",
+   "options": "Size"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-10-29 17:34:18.685952",
+ "modified_by": "Administrator",
+ "module": "PLM",
+ "name": "Product Measures",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -245,7 +245,7 @@ app_license = "mit"
 # Product Lifecycle Management Supporting Doctypes with Data 
 fixtures = [
 "Client Script",
-{"doctype": "Server Script", "filters": [["module", "=", "Product Lifecycle Management"]]},
+{"doctype": "Server Script", "filters": [["module", "=", "PLM"]]},
 {"doctype": "Product Category"},
 {"doctype": "Season"},
 {"doctype": "Size Groups"},
@@ -253,6 +253,7 @@ fixtures = [
 {"doctype": "Nature"},
 {"doctype": "Fabric"},
 {"doctype": "Product Color"},
+{"doctype": "Measurement Attributes"},
 {"doctype": "Role",
             "filters": [
                 ["name", "in", ("PLM Manager", "PLM User")]

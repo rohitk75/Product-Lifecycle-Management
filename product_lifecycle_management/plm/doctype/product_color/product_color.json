@@ -2,19 +2,26 @@
  "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
- "autoname": "field:nature",
- "creation": "2025-10-23 13:24:35.808506",
+ "autoname": "field:color_name",
+ "creation": "2025-10-23 13:38:25.129621",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "nature"
+  "color_name",
+  "color"
  ],
  "fields": [
   {
-   "fieldname": "nature",
-   "fieldtype": "Data",
+   "fieldname": "color",
+   "fieldtype": "Color",
    "in_list_view": 1,
-   "label": "Nature",
+   "in_preview": 1,
+   "label": "Color"
+  },
+  {
+   "fieldname": "color_name",
+   "fieldtype": "Data",
+   "label": "Color Name",
    "reqd": 1,
    "unique": 1
   }
@@ -22,10 +29,10 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-23 13:26:03.264093",
+ "modified": "2025-10-27 18:29:14.088731",
  "modified_by": "Administrator",
- "module": "Product Lifecycle Management",
- "name": "Nature",
+ "module": "PLM",
+ "name": "Product Color",
  "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [

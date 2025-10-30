@@ -9,11 +9,11 @@
  "field_order": [
   "tech_pack_initial_specs_section",
   "article",
-  "swatch_number",
   "fit",
   "target",
   "merchandizing_target_price",
   "status",
+  "swatch_number",
   "column_break_mvhn",
   "season",
   "product_category",
@@ -21,11 +21,25 @@
   "brand",
   "fabric",
   "product_color",
+  "sketch_and_construction_tab",
   "sketch_and_construction_section",
   "primary_sketch_front",
+  "image_front",
+  "column_break_eybf",
   "primary_sketch_back",
-  "detail_sketches",
+  "image_back",
+  "section_break_cbcd",
+  "table_lyin",
   "construction_notes",
+  "fit_and_size_tab",
+  "measurement_image",
+  "image_dpsx",
+  "section_break_wntz",
+  "size_group",
+  "column_break_pvro",
+  "measure_category",
+  "section_break_xpjy",
+  "measures",
   "stages_tab",
   "approvals_section",
   "spec_sheet",
@@ -123,10 +137,8 @@
    "options": "In Development\nSubmitted\nApproved"
   },
   {
-   "collapsible": 1,
    "fieldname": "sketch_and_construction_section",
-   "fieldtype": "Section Break",
-   "label": "Sketch And Construction"
+   "fieldtype": "Section Break"
   },
   {
    "fieldname": "primary_sketch_front",
@@ -137,11 +149,6 @@
    "fieldname": "primary_sketch_back",
    "fieldtype": "Attach Image",
    "label": "Primary Sketch Back"
-  },
-  {
-   "fieldname": "detail_sketches",
-   "fieldtype": "Attach Image",
-   "label": "Detail Sketches"
   },
   {
    "fieldname": "construction_notes",
@@ -234,14 +241,88 @@
    "fieldname": "post_launch_feedback_tab",
    "fieldtype": "Tab Break",
    "label": "Post Launch Feedback"
+  },
+  {
+   "fieldname": "image_front",
+   "fieldtype": "Image",
+   "options": "primary_sketch_front"
+  },
+  {
+   "fieldname": "column_break_eybf",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "image_back",
+   "fieldtype": "Image",
+   "options": "primary_sketch_back"
+  },
+  {
+   "fieldname": "sketch_and_construction_tab",
+   "fieldtype": "Tab Break",
+   "label": "Sketch And Construction"
+  },
+  {
+   "fieldname": "section_break_cbcd",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "table_lyin",
+   "fieldtype": "Table",
+   "label": "Detail Sketches",
+   "options": "Product Images"
+  },
+  {
+   "fieldname": "measurement_image",
+   "fieldtype": "Attach Image",
+   "label": "Measurement Image"
+  },
+  {
+   "fieldname": "fit_and_size_tab",
+   "fieldtype": "Tab Break",
+   "label": "Fit And Size"
+  },
+  {
+   "fieldname": "image_dpsx",
+   "fieldtype": "Image",
+   "options": "measurement_image"
+  },
+  {
+   "fieldname": "measures",
+   "fieldtype": "Table",
+   "label": "Measures",
+   "options": "Product Measures"
+  },
+  {
+   "fieldname": "size_group",
+   "fieldtype": "Link",
+   "label": "Size Group",
+   "options": "Size Groups"
+  },
+  {
+   "fieldname": "section_break_wntz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_pvro",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "measure_category",
+   "fieldtype": "Select",
+   "label": "Measure Category",
+   "options": "Tops, Jackets\nTops\nShirts, Jackets\nSweatshirts, Knits\nSweatshirts\nAll Tops\nAll Bottoms\nJoggers, Knit Pants\nPants, Skirts\nPants, Shorts\nPants, Jeans\nPants, Jeans, Shorts\nJeans, Pants\nPants\nSkirts, Shorts\nSkirts, Pants"
+  },
+  {
+   "fieldname": "section_break_xpjy",
+   "fieldtype": "Section Break"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-10-28 10:09:04.770955",
+ "modified": "2025-10-30 08:02:57.290353",
  "modified_by": "Administrator",
- "module": "Product Lifecycle Management",
+ "module": "PLM",
  "name": "Product Launch",
  "naming_rule": "By fieldname",
  "owner": "Administrator",

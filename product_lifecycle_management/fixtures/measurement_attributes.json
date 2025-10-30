@@ -1,0 +1,302 @@
+[
+ {
+  "category": "Tops, Jackets",
+  "description": "HPS to bottom hem along CF",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Frontal Length",
+  "modified": "2025-10-29 12:59:40.510539",
+  "name": "MEASURE-00001",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Tops",
+  "description": "2.5 cm below armhole, side seam to side seam",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Chest Width",
+  "modified": "2025-10-29 12:59:40.529150",
+  "name": "MEASURE-00002",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Tops",
+  "description": "Shoulder point to sleeve end",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Sleeve Length",
+  "modified": "2025-10-29 12:59:40.537735",
+  "name": "MEASURE-00003",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Shirts, Jackets",
+  "description": "Shoulder point to shoulder point",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Shoulder Width",
+  "modified": "2025-10-29 12:59:40.546308",
+  "name": "MEASURE-00004",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Tops",
+  "description": "Edge to edge across neckline",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Neck Opening Width",
+  "modified": "2025-10-29 12:59:40.555314",
+  "name": "MEASURE-00005",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Sweatshirts, Knits",
+  "description": "Neck rib seam to top edge",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Neck Rib Depth",
+  "modified": "2025-10-29 12:59:40.564148",
+  "name": "MEASURE-00006",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Sweatshirts",
+  "description": "Seam line to edge of sleeve rib",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Sleeve Rib Depth",
+  "modified": "2025-10-29 12:59:40.586057",
+  "name": "MEASURE-00007",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Sweatshirts, Knits",
+  "description": "Hem seam to edge of bottom rib",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Hem Rib Depth",
+  "modified": "2025-10-29 12:59:40.594027",
+  "name": "MEASURE-00008",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Shirts, Jackets",
+  "description": "Neck seam to top edge of collar",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Collar Depth",
+  "modified": "2025-10-29 12:59:40.602312",
+  "name": "MEASURE-00009",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Tops",
+  "description": "Shoulder point to bottom armhole curve",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Armhole",
+  "modified": "2025-10-29 12:59:40.612958",
+  "name": "MEASURE-00010",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Bottoms",
+  "description": "Straight across top edge of waistband",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Waist Width",
+  "modified": "2025-10-29 12:59:40.621572",
+  "name": "MEASURE-00011",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Joggers, Knit Pants",
+  "description": "Elastic waist – relaxed and stretched",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Waist Relaxed / Stretched",
+  "modified": "2025-10-29 12:59:40.629847",
+  "name": "MEASURE-00012",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Skirts",
+  "description": "5 cm below waist seam, side to side",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "High Hip Width",
+  "modified": "2025-10-29 12:59:40.637717",
+  "name": "MEASURE-00013",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Bottoms",
+  "description": "18–20 cm below waist seam, side to side",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Low Hip Width",
+  "modified": "2025-10-29 12:59:40.645795",
+  "name": "MEASURE-00014",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Bottoms",
+  "description": "Top waistband CF to crotch intersection",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Front Rise",
+  "modified": "2025-10-29 12:59:40.654594",
+  "name": "MEASURE-00015",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Bottoms",
+  "description": "Top waistband CB to crotch intersection",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Back Rise",
+  "modified": "2025-10-29 12:59:40.662236",
+  "name": "MEASURE-00016",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Shorts",
+  "description": "Crotch point to bottom hem along inseam",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Inseam Length",
+  "modified": "2025-10-29 12:59:40.670279",
+  "name": "MEASURE-00017",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Shorts",
+  "description": "Top waistband to hem along side seam",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Outseam Length",
+  "modified": "2025-10-29 12:59:40.679675",
+  "name": "MEASURE-00018",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Jeans",
+  "description": "2.5 cm below crotch, side to side",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Thigh Width",
+  "modified": "2025-10-29 12:59:40.689566",
+  "name": "MEASURE-00019",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Jeans",
+  "description": "Midpoint between crotch and hem",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Knee Width",
+  "modified": "2025-10-29 12:59:40.698017",
+  "name": "MEASURE-00020",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Jeans, Shorts",
+  "description": "Straight across bottom hem",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Leg Opening Width",
+  "modified": "2025-10-29 12:59:40.711927",
+  "name": "MEASURE-00021",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "All Bottoms",
+  "description": "Top to bottom of waistband",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Waistband Height",
+  "modified": "2025-10-29 12:59:40.726930",
+  "name": "MEASURE-00022",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Jeans",
+  "description": "Top of waistband to fly bartack",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Fly Length",
+  "modified": "2025-10-29 12:59:40.736269",
+  "name": "MEASURE-00023",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Jeans",
+  "description": "Pocket opening edge to pocket bottom",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Front Pocket Depth",
+  "modified": "2025-10-29 12:59:40.750344",
+  "name": "MEASURE-00024",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Jeans, Pants",
+  "description": "CB seam to pocket edge",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Back Pocket Placement",
+  "modified": "2025-10-29 12:59:40.759081",
+  "name": "MEASURE-00025",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Jeans, Pants",
+  "description": "Vertical at CB yoke",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Back Yoke Height",
+  "modified": "2025-10-29 12:59:40.767093",
+  "name": "MEASURE-00026",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants",
+  "description": "Side to side at crotch area",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Crotch Width",
+  "modified": "2025-10-29 12:59:40.776740",
+  "name": "MEASURE-00027",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Skirts, Shorts",
+  "description": "Hem edge to top of slit",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Slit Length",
+  "modified": "2025-10-29 12:59:40.790739",
+  "name": "MEASURE-00028",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Pants, Skirts",
+  "description": "Pleat depth at waistband",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Front Pleat Depth",
+  "modified": "2025-10-29 12:59:40.800988",
+  "name": "MEASURE-00029",
+  "naming_series": "MEASURE-"
+ },
+ {
+  "category": "Skirts, Pants",
+  "description": "Waist seam to dart end",
+  "docstatus": 0,
+  "doctype": "Measurement Attributes",
+  "measurement_attribute": "Back Dart Length",
+  "modified": "2025-10-29 12:59:40.810075",
+  "name": "MEASURE-00030",
+  "naming_series": "MEASURE-"
+ }
+]

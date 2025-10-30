@@ -6,14 +6,12 @@ def get_data():
         "fieldname": "article",
         "non_standard_fieldnames": {
             "Project": "custom_article",
+            "Task": "project",            
         },
         "transactions": [
             {
-                "label": _("Payment"),
-                "items": [
-                    "Project",
-
-                ],
+                "label": _("New Product Launch"),
+                "items": ["Project", "Task"],
             },
  
         ],
